@@ -1,0 +1,38 @@
+Options -ExecCGI -Includes -Indexes +MultiViews
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+#RewriteRule ^([^\.]+)$ $1.html [NC,L]
+
+ErrorDocument 400 /Project/errors/400.html
+ErrorDocument 401 /Project/errors/401.html
+ErrorDocument 403 /Project/errors/403.html
+ErrorDocument 404 /Project/errors/404.html
+ErrorDocument 500 /Project/errors/500.html
+
+RedirectMatch 404 /\.git
+<Files ~ "^\.git">
+    Order allow,deny
+    Deny from all 
+</Files>
+
+ServerSignature Off
+
+#httpd.conf
+#<Location /server-info>
+#SetHandler server-info
+#Order deny,allow
+#Deny from all
+#Allow from localhost
+#</Location> 
+#
+#<Location /server-status>
+#SetHandler server-status
+#Order deny,allow
+#Deny from all
+#Allow from localhost
+#</Location>
+
+#RewriteRule 1234.html json.html

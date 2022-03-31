@@ -1,0 +1,22 @@
+# sql injection
+    $password = stripslashes($password);
+    $username = mysql_real_escape_string($username);
+
+# Directory Listing
+    .htaccess
+        - Options -Indexes
+        - ErrorDocument
+
+# .git
+    RedirectMatch 404 /\.git
+    Deny from all
+
+# CSRF
+    use NoCSRF lib
+        - https://github.com/BKcore/NoCSRF
+
+# XSS
+    test with : <script>alert(55555)</script>
+    // not solve
+
+

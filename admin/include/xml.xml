@@ -1,0 +1,4394 @@
+<?xml version="1.0" encoding="TIS-620"?>
+<?xml-stylesheet type="text/xsl" href="http://klogic.kmitnb.ac.th:8080/kris/XML/currstyle1.4.xsl"?>
+<Curriculum
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://klogic.kmitnb.ac.th:8080/kris/XML/currschema1.4.xsd" code="55020164">
+    <Info>
+        <NameEng>Bachelor of Science in Technical Education Program in Production and Industrial Engineering</NameEng>
+        <NameThai>หลักสูตรครุศาสตร์อุตสาหกรรมบัณฑิต สาขาวิชาวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+        <Level>6</Level>
+        <LevelText>ปริญญาตรี</LevelText>
+        <Degree>09</Degree>
+        <DegreeText>ครุศาสตร์อุตสาหกรรมบัณฑิต</DegreeText>
+        <Fac>02</Fac>
+        <FacText>คณะครุศาสตร์อุตสาหกรรม</FacText>
+        <Dept>0201</Dept>
+        <DeptText>ครุศาสตร์เครื่องกล</DeptText>
+        <Div>020103</Div>
+        <DivText>วิศวกรรมการผลิต</DivText>
+        <BeginYear>2555</BeginYear>
+        <BeginSem>1</BeginSem>
+        <CurrType>2</CurrType>
+        <CurrTypeText>หลักสูตรปรับปรุง</CurrTypeText>
+        <Edition>1</Edition>
+        <Certify>2554</Certify>
+        <Comment></Comment>
+    </Info>
+    <Options />
+    <Nodes>
+        <Node code="1">
+            <Parent>0</Parent>
+            <NameEng>Curriculum</NameEng>
+            <NameThai>หลักสูตรปกติ</NameThai>
+            <Type>0</Type>
+            <Crd>149</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>4</MinYear>
+            <MaxYear>8</MaxYear>
+        </Node>
+        <Node code="10">
+            <Parent>2</Parent>
+            <NameEng>Physical Education</NameEng>
+            <NameThai>กลุ่มวิชาพลศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>2</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="11">
+            <Parent>3</Parent>
+            <NameEng>Core Courses</NameEng>
+            <NameThai>กลุ่มวิชาการศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="12">
+            <Parent>3</Parent>
+            <NameEng></NameEng>
+            <NameThai>กลุ่มวิชาพื้นฐานวิศวกรรม</NameThai>
+            <Type>2</Type>
+            <Crd>49</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="13">
+            <Parent>5</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>1</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="14">
+            <Parent>7</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="15">
+            <Parent>18</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>28</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="16">
+            <Parent>6</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="17">
+            <Parent>5</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="18">
+            <Parent>3</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <Type>2</Type>
+            <Crd>28</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="19">
+            <Parent>10</Parent>
+            <NameEng>Elective</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>2</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="2">
+            <Parent>1</Parent>
+            <NameEng>General Education Courses</NameEng>
+            <NameThai>หมวดวิชาศึกษาทั่วไป</NameThai>
+            <Type>1</Type>
+            <Crd>30</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="20">
+            <Parent>12</Parent>
+            <NameEng>Forced</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>49</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="21">
+            <Parent>25</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="22">
+            <Parent>11</Parent>
+            <NameEng>Forced</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="23">
+            <Parent>0</Parent>
+            <NameEng>Curriculum</NameEng>
+            <NameThai>หลักสูตรสหกิจศึกษา</NameThai>
+            <Type>0</Type>
+            <Crd>149</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>4</MinYear>
+            <MaxYear>8</MaxYear>
+        </Node>
+        <Node code="24">
+            <Parent>4</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="25">
+            <Parent>3</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาเลือกทางวิศวกรรมการผลิตและอุตสาหการหรือการศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="26">
+            <Parent>7</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="27">
+            <Parent>23</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>หมวดวิชาศึกษาทั่วไป</NameThai>
+            <Type>1</Type>
+            <Crd>30</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="28">
+            <Parent>23</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>หมวดวิชาเฉพาะ</NameThai>
+            <Type>1</Type>
+            <Crd>113</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="29">
+            <Parent>23</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>หมวดวิชาเลือกเสรี</NameThai>
+            <Type>1</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="3">
+            <Parent>1</Parent>
+            <NameEng>Specialized Courses</NameEng>
+            <NameThai>หมวดวิชาเฉพาะ</NameThai>
+            <Type>1</Type>
+            <Crd>113</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="30">
+            <Parent>29</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="31">
+            <Parent>27</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาสังคมศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>4</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="32">
+            <Parent>31</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>1</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="33">
+            <Parent>31</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="34">
+            <Parent>27</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชามนุษยศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="35">
+            <Parent>34</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="36">
+            <Parent>27</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาภาษา</NameThai>
+            <Type>2</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="37">
+            <Parent>36</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="38">
+            <Parent>36</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="39">
+            <Parent>27</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>9</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="4">
+            <Parent>1</Parent>
+            <NameEng>Free Elective Courses</NameEng>
+            <NameThai>หมวดวิชาเลือกเสรี</NameThai>
+            <Type>1</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="40">
+            <Parent>41</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>2</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="41">
+            <Parent>27</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาพลศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>2</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="42">
+            <Parent>39</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>9</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="43">
+            <Parent>28</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาการศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="44">
+            <Parent>43</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="45">
+            <Parent>28</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาพื้นฐานวิศวกรรม</NameThai>
+            <Type>2</Type>
+            <Crd>47</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="46">
+            <Parent>45</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>47</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="47">
+            <Parent>28</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <Type>2</Type>
+            <Crd>30</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="48">
+            <Parent>47</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <Type>3</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="49">
+            <Parent>47</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>สหกิจศึกษา</NameThai>
+            <Type>3</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="5">
+            <Parent>2</Parent>
+            <NameEng>Social Sciences</NameEng>
+            <NameThai>กลุ่มวิชาสังคมศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>4</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="50">
+            <Parent>28</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาเลือกทางวิศวกรรมการผลิตและอุตสาหการหรือการศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="51">
+            <Parent>50</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="52">
+            <Parent>12</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาปรับพื้น/ฝึกงาน</NameThai>
+            <Type>5</Type>
+            <Crd>1</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="53">
+            <Parent>45</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาปรับพื้น/ฝึกงาน</NameThai>
+            <Type>5</Type>
+            <Crd>1</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="54">
+            <Parent>0</Parent>
+            <NameEng>Curriculum</NameEng>
+            <NameThai>หลักสูตรเทียบโอน</NameThai>
+            <Type>0</Type>
+            <Crd>99</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>2</MinYear>
+            <MaxYear>4</MaxYear>
+        </Node>
+        <Node code="55">
+            <Parent>54</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>หมวดวิชาศึกษาทั่วไป</NameThai>
+            <Type>1</Type>
+            <Crd>9</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="56">
+            <Parent>55</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาภาษา</NameThai>
+            <Type>2</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="57">
+            <Parent>56</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="58">
+            <Parent>56</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="59">
+            <Parent>55</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="6">
+            <Parent>2</Parent>
+            <NameEng>Humanities</NameEng>
+            <NameThai>กลุ่มวิชามนุษยศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="60">
+            <Parent>59</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>3</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="61">
+            <Parent>54</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>หมวดวิชาเฉพาะ</NameThai>
+            <Type>1</Type>
+            <Crd>84</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="62">
+            <Parent>61</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาการศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="63">
+            <Parent>62</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>24</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="64">
+            <Parent>61</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาพื้นฐานวิศวกรรม</NameThai>
+            <Type>2</Type>
+            <Crd>22</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="65">
+            <Parent>64</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>22</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="66">
+            <Parent>61</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <Type>2</Type>
+            <Crd>26</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="67">
+            <Parent>66</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาบังคับ</NameThai>
+            <Type>3</Type>
+            <Crd>26</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="68">
+            <Parent>61</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>กลุ่มวิชาเลือกทางวิศวกรรมการผลิตและอุตสาหการหรือการศึกษา</NameThai>
+            <Type>2</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="69">
+            <Parent>68</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="7">
+            <Parent>2</Parent>
+            <NameEng>Language</NameEng>
+            <NameThai>กลุ่มวิชาภาษา</NameThai>
+            <Type>2</Type>
+            <Crd>12</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="70">
+            <Parent>54</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>หมวดวิชาเลือกเสรี</NameThai>
+            <Type>1</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="71">
+            <Parent>70</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>6</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="72">
+            <Parent>61</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาปรับพื้น/ฝึกงาน</NameThai>
+            <Type>5</Type>
+            <Crd>1</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="8">
+            <Parent>2</Parent>
+            <NameEng>Science and Mathematics</NameEng>
+            <NameThai>กลุ่มวิชาวิทยาศาสตร์และคณิตศาสตร์</NameThai>
+            <Type>2</Type>
+            <Crd>9</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+        <Node code="9">
+            <Parent>8</Parent>
+            <NameEng>Courses</NameEng>
+            <NameThai>วิชาเลือก</NameThai>
+            <Type>4</Type>
+            <Crd>9</Crd>
+            <Crd2>0</Crd2>
+            <Option>0</Option>
+            <MinYear>0</MinYear>
+            <MaxYear>0</MaxYear>
+        </Node>
+    </Nodes>
+    <Courses>
+        <Course code="010813901">
+            <NameEng>Ethics for Profession</NameEng>
+            <NameThai>จริยธรรมในการทำงาน</NameThai>
+            <ShrtName>ETHICS FOR PROFESSION</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>จริยธรรม คุณธรรม ศีลธรรม จรรยาบรรณ ลักษณะงานสาขาต่างๆ ข้อพึงปฏิบัติและข้อละเว้นในการทำงาน
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003101">
+            <NameEng>Introduction to Computer for Education</NameEng>
+            <NameThai>คอมพิวเตอร์เพื่อการศึกษาเบื้องต้น</NameThai>
+            <ShrtName>INTRO TO COMP FOR ED</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>องค์ประกอบและการทำงานของคอมพิวเตอร์ การติดตั้งและการใช้งานระบบปฏิบัติ (Operation System) การใช้งานเบื้องต้นของโปรแกรมประยุกต์เพื่อการศึกษา อาทิ การจัดทำเอกสารรายงาน การคำนวณ การนำเสนองาน และการปรับแต่งภาพ ความรู้เบื้องต้นเกี่ยวกับอินเตอร์เน็ต และการสืบค้นข้อมูลเพื่อประกอบการศึกษา จริยธรรมในการใช้คอมพิวเตอร์และระบบสารสนเทศ
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>1</No_Hlab>
+        </Course>
+        <Course code="020003103">
+            <NameEng>Computer and Programming</NameEng>
+            <NameThai>คอมพิวเตอร์และการเขียนโปรแกรม</NameThai>
+            <ShrtName>COMPUTER AND PROGRAMMING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>โครงสร้างและหน้าที่ของส่วนประกอบต่างๆ ของคอมพิวเตอร์ ลักษณะของตัวแปลภาษา แนวคิดในการแก้ปัญหาด้วยโปรแกรมคอมพิวเตอร์ ขั้นตอนการออกแบบและพัฒนาโปรแกรมด้วยภาษาระดับสูง การสร้างและการเรียกใช้ฟังก์ชัน การประมวลผลแฟ้มข้อมูล การทดสอบและการแก้ไขข้อผิดพลาดในโปรแกรม
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020003121">
+            <NameEng>Thai Language for Teachers</NameEng>
+            <NameThai>ภาษาไทยสำหรับครู</NameThai>
+            <ShrtName>THAI LANGUAGE FOR TEACHERS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การใช้ภาษาไทยให้ถูกต้องตามมาตรฐานของหลักภาษาไทยด้วยมารยาทที่ดีเพื่อการสื่อสาร โดยการบูรณาการทักษะ การฟัง การพูด การอ่านและการเขียน การวิเคราะห์และตีความในข้อมูลข่าวสาร บทความ  และสื่อประเภทต่าง ๆ  อย่างมีเหตุผล   และเน้นทักษะในการสื่อสารกับบุคคลอื่นได้อย่างมีประสิทธิภาพ สามารถประยุกต์ใช้ได้จริงในงานอาชีพครู</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003201">
+            <NameEng>Principles of Teaching Profession</NameEng>
+            <NameThai>หลักวิชาชีพครู</NameThai>
+            <ShrtName>PRINCIPLES OF TEACHING PROFE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความสำคัญของวิชาชีพครู    บทบาทภาระหน้าที่    คุณลักษณะของครูที่ดี     การเสริมสร้างทัศนคติที่ดีต่อวิชาชีพ     ศักยภาพและสมรรถภาพสำหรับการเป็นครู     การพัฒนาให้เป็นบุคคลแห่งการเรียนรู้และเป็นผู้นำทางวิชาการ     เกณฑ์มาตรฐานและจรรยาบรรณวิชาชีพครู  การพัฒนาวิชาชีพครูและกฎหมายที่เกี่ยวข้องกับการศึกษาไทย ทักษะในการฟัง พูด อ่านและเขียนภาษาไทย เพื่อการสื่อสารในวิชาชีพครู  ทฤษฎีและหลักการบริหารจัดการสำหรับครู  การคิดอย่างเป็นระบบการเรียนรู้วัฒนธรรมองค์กร   มนุษยสัมพันธ์และการสื่อสารในองค์กร  การทำงานเ</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003202">
+            <NameEng>Education Innovation and Information Technology</NameEng>
+            <NameThai>นวัตกรรมและเทคโนโลยีสารสนเทศทางการศึกษา</NameThai>
+            <ShrtName>EDUCATION INNOVATION AND INF</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>แนวคิดและทฤษฎีเทคโนโลยีและนวัตกรรมการศึกษาที่ส่งเสริมการพัฒนาคุณภาพการเรียนรู้ การประยุกต์ใช้คอมพิวเตอร์ช่วยในการจัดการศึกษา  เทคโนโลยีสารสนเทศสำหรับครู   การวิเคราะห์ปัญหาที่เกิดจากการใช้นวัตกรรมและเทคโนโลยีสารสนเทศ   การจัดระบบสารสนเทศเพื่อการเรียนการสอนและการบริหารจัดการ   แหล่งการเรียนรู้และเครือข่ายการเรียนรู้  การออกแบบ  การสร้าง  การนำไปใช้       การประเมินและการปรับปรุงนวัตกรรม</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020003203">
+            <NameEng>Vocational Education Curriculum Development</NameEng>
+            <NameThai>การพัฒนาหลักสูตรอาชีวศึกษา</NameThai>
+            <ShrtName>VOCATIONAL EDUCATION CURRICU</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความหมายและความสำคัญของหลักสูตร  ปรัชญา แนวคิด ทฤษฎีการศึกษา ทฤษฎีการพัฒนาหลักสูตร กระบวนการพัฒนาหลักสูตร และ การพัฒนาหลักสูตรอาชีวศึกษา   การกำหนดมาตรฐานของหลักสูตร   รูปแบบในการพัฒนาหลักสูตรรายวิชา   หลักการและการวิเคราะห์ความต้องการและปัจจัยต่าง ๆ ในการพัฒนาหลักสูตร  ความต้องการในงานอาชีพ   สมรรถนะวิชาชีพ       วิธีการกำหนดวัตถุประสงค์ของหลักสูตร  การวิเคราะห์งาน  การวิเคราะห์เนื้อหาสาระของรายวิชา  การประเมินผลหลักสูตร</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003204">
+            <NameEng>Technical Subject Teaching Methods</NameEng>
+            <NameThai>วิธีการสอนวิชาเทคนิค</NameThai>
+            <ShrtName>TECHNICAL SUBJECT TEACHING M</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ทฤษฎีการเรียนรู้และหลักการสอน  กระบวนการเรียนรู้และขั้นตอนในการสอนวิชาทฤษฎีและปฏิบัติ โดยใช้เทคนิคและรูปแบบการจัดกิจกรรมการเรียนการสอนแบบยึดผู้เรียนเป็นสำคัญ   การเขียนวัตถุประสงค์เชิงพฤติกรรม  การใช้และการผลิตสื่อการสอน การนำเข้าสู่บทเรียน   การให้เนื้อหาด้วยวิธีการสอนแบบต่าง ๆ  วิธีการของการฝึกหัด  การตรวจสอบความสำเร็จของผลการเรียนรู้   การเสริมแรง    และนำมาบูรณาการใช้ในการจัดเตรียมแผนบทเรียนและการปฏิบัติการสอน    เครื่องมือการสังเกตการณ์การสอน  การวัดและการประเมินผลการสอน</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003205">
+            <NameEng>Psychology for Teachers</NameEng>
+            <NameThai>จิตวิทยาสำหรับครู</NameThai>
+            <ShrtName>PSYCHOLOGY FOR TEACHERS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>จิตวิทยาการศึกษาพื้นฐานที่เกี่ยวข้องกับพัฒนาการมนุษย์  ความแตกต่างระหว่างบุคคล ภูมิปัญญากับการเรียนรู้    รูปแบบพื้นฐานของการเรียนรู้  การเรียนรู้แบบลูกโซ่ การพูดและการเชื่อมโยงภาษา การเกิดความคิดรวบยอด   หลักการของการเรียนรู้กฎเกณฑ์ การเรียนรู้วิธีแก้ปัญหา การถ่ายโยงความรู้ ปัจจัยที่เกี่ยวข้องกับการเรียนรู้ทางช่างอุตสาหกรรม การประยุกต์แนวคิดและผลการทดลองมาใช้ในการวางแผนและออกแบบบทเรียน  และจิตวิทยาการแนะแนวและให้คำปรึกษา
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003206">
+            <NameEng>Educational Measurement and Evaluation</NameEng>
+            <NameThai>การวัดและประเมินผลการศึกษา</NameThai>
+            <ShrtName>ED MEASUREMENT &amp; EVALUATION</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการและเทคนิคการวัดและประเมินผลทางการศึกษา    การสร้างการใช้และตรวจสอบคุณภาพเครื่องมือวัดและประเมินผลการศึกษา หลักการวิเคราะห์วัตถุประสงค์การสอนเพื่อการวัดและประเมินผลทางการศึกษา  การเขียนและการให้คะแนนแบบทดสอบชนิดต่างๆ    สถิติเบื้องต้นที่เกี่ยวข้องกับการวัดและประเมินผลการศึกษา    การวิเคราะห์คุณภาพข้อสอบและแบบทดสอบ การประเมินผลตามสภาพจริง  การประเมินจากแฟ้มสะสมงาน  การประเมินภาคปฏิบัติ และการประเมินผลแบบย่อยและแบบรวม    นวัตกรรมและเทคโนโลยีในการวัดและประเมินผล    การใช้เครื่องมือช่วยวิเคราะ</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003207">
+            <NameEng>Educational Research</NameEng>
+            <NameThai>การวิจัยทางการศึกษา</NameThai>
+            <ShrtName>EDUCATIONAL RESEARCH</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการทำวิจัย   รูปแบบการวิจัย   กระบวนการวิจัย  การออกแบบการวิจัย  สถิติเพื่อการวิจัย การวิจัยในชั้นเรียน การฝึกปฏิบัติการวิจัย  การเสนอโครงการเพื่อทำวิจัย    การค้นคว้าศึกษาผลการวิจัยเพื่อการพัฒนากระบวนการจัดการเรียนรู้และพัฒนาผู้เรียน  การแก้ปัญหาด้วยการวิจัย  การใช้โปรแกรมสำเร็จรูปในการวิเคราะห์ข้อมูล การแปลผลและการนำเสนอผลงานวิจัย และการนำผลการวิจัยไปใช้ในการจัดการเรียนการสอน 
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003208">
+            <NameEng>Professional Experience I</NameEng>
+            <NameThai>การฝึกประสบการณ์การสอนวิชาชีพ 1</NameThai>
+            <ShrtName>PROFESSIONAL EXPERIENCE I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การประยุกต์ทฤษฎีจากรายวิชาการศึกษาเพื่อใช้ในการฝึกทักษะการสอนแบบจุลภาค ฝึกปฏิบัติการสอนหน้าชั้นเรียนโดยเรียงลำดับจากง่ายไปหายาก ภายใต้การควบคุมอย่างใกล้ชิดและการให้คำปรึกษาแนะนำจากอาจารย์นิเทศก์ประจำกลุ่ม     การเตรียมจัด บทเรียนที่สมบูรณ์สำหรับการฝึกสอนจริงในภาคเรียนต่อไป</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>2</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>4</No_Hlab>
+        </Course>
+        <Course code="020003209">
+            <NameEng>Professional Experience II</NameEng>
+            <NameThai>การฝึกประสบการณ์การสอนวิชาชีพ 2</NameThai>
+            <ShrtName>PROFESSIONAL EXPERIENCE II</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การฝึกปฏิบัติการสอนวิชาชีพเพื่อให้ได้รับประสบการณ์ตรง  การวางแผนการสอน และจัดทำแผนบทเรียนที่เหมาะสมกับหัวข้อเรื่องที่ได้รับมอบหมาย  การใช้เทคนิคการสอน    การแก้ปัญหาขณะทำการสอน    การฝึกประสบการณ์ จัดลำดับเริ่มจากการสัมมนาและการจัดเตรียมการสอน ปฏิบัติการซ้อมสอน การฝึกสอนกับสถานการณ์จริงและประเมินผลการสอนหลังการสอน ภายใต้การควบคุมและแนะนำอย่างใกล้ชิดจากอาจารย์นิเทศก์ทุกขั้นตอน</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>3</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020003210">
+            <NameEng>Teaching Media</NameEng>
+            <NameThai>สื่อการสอน</NameThai>
+            <ShrtName>TEACHING MEDIA</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความหมายและความสำคัญของสื่อการสอน ทฤษฎีการสื่อสาร การจำแนกชนิดและลักษณะของสื่อการสอน นวัตกรรมของสื่อการสอน เทคนิคการวิเคราะห์และเลือกสื่อให้เหมาะสมกับเนื้อหา การออกแบบและพัฒนาสื่อการสอน    การสร้างสื่อการสอนด้วยคอมพิวเตอร์ การฝึกทักษะในการสร้างและใช้สื่อการสอนประเภทต่างๆ การประเมินคุณภาพสื่อการสอน
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020003211">
+            <NameEng>Principle of Vocational Education Administration</NameEng>
+            <NameThai>หลักการบริหารอาชีวศึกษา</NameThai>
+            <ShrtName>PRINCIPLE OF VOCATIONAL EDUC</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความเป็นมาในการพัฒนาการอาชีวศึกษาของประเทศไทย   และต่างประเทศ แผนการศึกษาแห่งชาติและแผนพัฒนาเศรษฐกิจและสังคมแห่งชาติ แนวคิดและรูปแบบการจัดการอาชีวศึกษา การบริหารหลักสูตรและการจัดการเรียนการสอนการอาชีวศึกษา การประเมินผลการจัดการอาชีวศึกษา บทบาทของผู้บริหารการศึกษา 
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020003212">
+            <NameEng>Computer -assisted Instruction</NameEng>
+            <NameThai>บทเรียนคอมพิวเตอร์ช่วยสอน</NameThai>
+            <ShrtName>COMPUTER -ASSISTED INSTRUCTI</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>บทบาทของอีเลิร์นนิ่งต่อการศึกษา  ประเภทของบทเรียนคอมพิวเตอร์ช่วยสอน  ระบบจัดการเรียนการสอนบนเครือข่ายอินเทอร์เน็ต   การวิเคราะห์เนื้อหาและแบบทดสอบ    การออกแบบและพัฒนาบทเรียนคอมพิวเตอร์ช่วยสอน   การใช้และการประเมินบทเรียนคอมพิวเตอร์ช่วยสอน ฝึกปฏิบัติการสร้างบทเรียนคอมพิวเตอร์ช่วยสอนด้วยระบบนิพนธ์บทเรียน</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020003213">
+            <NameEng>Special Topics in Technical Education</NameEng>
+            <NameThai>หัวข้อพิเศษด้านเทคนิคศึกษา</NameThai>
+            <ShrtName>SPECIAL TOPICS IN TECHNICAL</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การศึกษาหรือวิจัย  เรื่องราวเฉพาะที่น่าสนใจเกี่ยวข้องกับการจัดการศึกษาทางด้านอาชีวะและเทคนิคศึกษา โดยการศึกษาหรือวิจัยดังกล่าวจะต้องมีกรอบการดำเนินงานให้เสร็จสิ้นภายในระยะเวลา 1 ภาคเรียน</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020003214">
+            <NameEng>Professional Experience III</NameEng>
+            <NameThai>การฝึกประสบการณ์การสอนวิชาชีพ 3</NameThai>
+            <ShrtName>PROFESSIONAL EXPERIENCE III</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการสอนวิชาภาคปฏิบัติให้มีความรู้ความสามารถอย่างแท้จริงและกว้างขวาง การสอนเนื้อหาวิชาภาคปฏิบัติในโรงฝึกงาน และในการสอนเรื่องเกี่ยวกับงานประลอง จัดเตรียมและวางแผนบทเรียนภาคปฏิบัติ การสอนซ่อมเสริมประสบการณ์ การควบคุมการฝึกงานและประเมินผลการสอนภาคปฏิบัติ พัฒนาวิธีการวางแผนบทเรียน วิธีการสอน และการประเมินผลบทเรียนได้อย่างมีประสิทธิภาพ
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>3</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020003215">
+            <NameEng>Professional Experience IV</NameEng>
+            <NameThai>การฝึกประสบการณ์การสอนวิชาชีพ 4</NameThai>
+            <ShrtName>PROFESSIONAL EXPERIENCE IV</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>รายวิชานี้จัดขึ้นเพื่อให้นักศึกษา      ได้มีความรู้ความสามารถอย่างแท้จริงและกว้างขวางในการสอนเนื้อหาสาระวิชาทฤษฎี    ปฏิบัติ   และประลอง   ด้วยการวิเคราะห์เนื้อหาสาระที่นักศึกษาจำเป็นจะต้องนำไปใช้ในการสอน      โดยเฉพาะเนื้อหาสาระใหม่    นักศึกษาจะได้รับการชี้แนะวิธีการสอน      และการถ่ายทอดเนื้อหาเหล่านั้นอย่างมีประสิทธิภาพ      ทั้งนี้เพื่อปลูกฝังให้นักศึกษาเกิดความเชื่อมั่นและนำไปใช้อย่างมีประสิทธิภาพ
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>3</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020003216">
+            <NameEng>Training for Staff Development</NameEng>
+            <NameThai>การจัดฝึกอบรมพัฒนาบุคลากร</NameThai>
+            <ShrtName>TRAINING FOR STAFF DEVELOPME</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความหมายและความสำคัญของการพัฒนาบุคลากร แนวคิดเกี่ยวกับการพัฒนาบุคลากร รูปแบบ และวิธีการในการพัฒนาบุคลากร การวางแผนและการดำเนินงานพัฒนาบุคลากร  การพัฒนาบุคลากรด้วยวิธีการฝึกอบรม    ความมุ่งหมายและหลักสำคัญของการฝึกอบรม  กระบวนการฝึกอบรม  การหาความจำเป็นในการฝึกอบรม การวางแผน การจัดทำโครงการ การดำเนินการและการประเมินผลการฝึกอบรม
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020113104">
+            <NameEng>Physical Metallurgy</NameEng>
+            <NameThai>โลหะวิทยากายภาพ</NameThai>
+            <ShrtName>PHYSICAL METALLURGY</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>โครงสร้างและพฤติกรรมของโลหะ แผนภูมิสมดุลของโลหะผสม การเปลี่ยนโครงสร้างของเหล็กกล้า เหล็กกล้าผสม โลหะนอกกลุ่มเหล็กและโลหะผสม การเกิดนิวเคลียสของโลหะ การแข็งขึ้นจากการตกผลึก การสึกกร่อนและการกัดกร่อนของโลหะ การอบและการชุบแข็งเหล็กกล้าแบบต่างๆ การวัดความสามารถในการชุบแข็ง การตรวจสอบคุณภาพชิ้นงานด้วยการทดสอบวัสดุแบบการทำลายและไม่ทำลาย การวิเคราะห์ความแตกหักเสียหายเบื้องต้น</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020113901">
+            <NameEng>Engineering Materials</NameEng>
+            <NameThai>วัสดุวิศวกรรม</NameThai>
+            <ShrtName>ENGINEERING MATERIALS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>วัสดุวิศวกรรม    สมบัติทางวิศวกรรมของโลหะ โลหะผสม พลาสติก  อิลาสโตเมอร์และวัสดุคอมโพสิตและเซรามิก    โครงสร้างจุลภาคของโลหะ แผนภูมิสมดุลของโลหะผสม กระบวนการผลิตเหล็กและเหล็กกล้า กระบวนการปรับคุณภาพเหล็กกล้าด้วยความร้อน หลักการเบื้องต้นของการตรวจสอบวัสดุโดยทำลายและไม่ทำลาย</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020113904">
+            <NameEng>Engineering Mechanics</NameEng>
+            <NameThai>กลศาสตร์วิศวกรรม</NameThai>
+            <ShrtName>ENGINEERING MECHANICS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ปริมาณเวกเตอร์   การรวมแรง   การแตกแรง   โมเมนต์ของแรง   แรงคู่ควบ การสมดุล  โครงถัก  จุดศูนย์ถ่วง แรงกระจายบนคาน โมเมนต์ความเฉื่อย คำจำกัดความของการขจัด  ความเร็ว  ความเร่ง  การเคลื่อนที่เป็นเส้นตรงในแนวระดับ  การเคลื่อนที่แนวดิ่งเนื่องจากแรงดึงดูดของโลก  การเคลื่อนที่เป็นเส้นโค้ง การเคลื่อนที่เป็นวงกลม  กฎการเคลื่อนที่ของนิวตัน โมเมนต์ความเฉื่อย ความสัมพันธ์ของการเคลื่อนที่ของจุดต่างๆ บนวัตถุชิ้นเดียวกัน   หลักการของอิมพัลส์และโมเมนตัม   แรงหนีศูนย์กลางและแรงเข้าหาศูนย์กลาง  งาน  พลังงาน  กำลั</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020113910">
+            <NameEng>Mechanics of Solids</NameEng>
+            <NameThai>กลศาสตร์ของแข็ง</NameThai>
+            <ShrtName>MECHANICS OF SOLIDS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>แรงภายใน ความสัมพันธ์ของความเค้นและความเครียด  การเปลี่ยนแปลงรูปร่างแรงเฉือนและความเค้นอัด การบิดของเพลา การเขียนไดอะแกรมของแรงเฉือนและโมเมนต์ดัดในคาน ความเค้นดัดและความเค้นเฉือนในคาน ความเค้นผสม การวิเคราะห์ความเค้นและความเครียด  ทฤษฎีของวงกลมมอร์ การโก่งของคาน เสาสูง พลังงานความเครียด</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020113912">
+            <NameEng>Machine Element Design I</NameEng>
+            <NameThai>การออกแบบชิ้นส่วนเครื่องกล 1</NameThai>
+            <ShrtName>MACHINE ELEMENT DESIGN I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>กลศาสตร์ของแข็ง ทฤษฎีความเสียหาย การล้าตัวของวัสดุพิกัดความเผื่อและงานสวมตามระบบ ISO  การคำนวณและเลือกใช้ชิ้นส่วนต่าง ๆ  ลิ่ม สลัก สกรูจับยึด สกรูส่งกำลัง เพลา แบริ่งและสปริง</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020113930">
+            <NameEng>Thermofluids</NameEng>
+            <NameThai>เทอร์โมฟลูอิดส์</NameThai>
+            <ShrtName>THERMOFLUIDS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เทอร์โมไดนามิกเบื้องต้น  หลักการและนิยามพื้นฐาน   คุณสมบัติและสถานะของสาร-บริสุทธิ์  งานและความร้อน  กฎข้อที่หนึ่งของเทอร์โมไดนามิก  ระบบที่ไม่มีการไหลและระบบที่มีการไหล กลศาสตร์ของของไหลเบื้องต้น คุณสมบัติของของไหล การอนุรักษ์มวลและปริมาตร สมดุลสถิตของไหล  สมการของเบอร์นูลลี สนามการไหล การไหลแบบไม่ทรงตัวและแบบอัดตัวได้ สมการโมเมนตัมและพลังงาน การถ่ายเทความร้อนเบื้องต้น การนำ การพา และการแผ่รังสีความร้อน</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020113940">
+            <NameEng>Manufacturing Process</NameEng>
+            <NameThai>กรรมวิธีการผลิต</NameThai>
+            <ShrtName>MANUFACTURING PROCESS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>กรรมวิธีการผลิต  การเลือกใช้วัสดุและกรรมวิธีการผลิตที่เหมาะสม  วิธีการแปรรูปชิ้นงานด้วยกรรมวิธีการแปรรูปแบบเกิดเศษและไม่เกิดเศษ    การปรับปรุงคุณสมบัติของโลหะด้วยกรรมวิธีทางความร้อน   การประกอบ   เครื่องมือในระบบการประกอบ  กรณีตัวอย่างวิธีการผลิตในอุตสาหกรรมต่าง ๆ</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020113950">
+            <NameEng>Pneumatics and Hydraulics</NameEng>
+            <NameThai>นิวแมติกส์และไฮดรอลิกส์</NameThai>
+            <ShrtName>PNEUMATICS AND HYDRAULICS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>พื้นฐานระบบส่งกำลังโดยใช้ของไหล ระบบไฮดรอลิกส์  ระบบนิวแมติกส์  อุปกรณ์และสัญลักษณ์อุปกรณ์ของระบบส่งกำลังด้วยของไหล   ระบบพฤติกรรมทางสถิตและพลวัตของระบบส่งกำลังด้วยของไหล  การออกแบบวงจรการทำงานและวงจรควบคุมพลศาสตร์ของระบบส่งกำลังด้วยของไหล พื้นฐานระบบไฮดรอลิกส์และนิวแมติกส์แบบเซอร์โว</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020113960">
+            <NameEng>Computer-aided Design and Drawing</NameEng>
+            <NameThai>การออกแบบและเขียนแบบด้วยคอมพิวเตอร์</NameThai>
+            <ShrtName>COMPUTER-AIDED DESIGN AND DR</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการออกแบบและการเขียนแบบด้วยคอมพิวเตอร์    การใช้คำสั่งในการเขียนรูป 2 มิติ และ 3 มิติ  การเขียนแบบภาพประกอบ  ภาพแยกชิ้น  งานโลหะแผ่นพับ  งานโครงสร้าง   การเขียนชิ้นส่วนมาตรฐาน   การกำหนดขนาด   การเขียนแบบสั่งงาน แบบแยกชิ้น สัญลักษณ์ต่าง ๆ ตามมาตรฐานงานเขียนแบบ การคำนวณหาขนาดและความแข็งแรงของชิ้นส่วนเครื่องจักร และการวิเคราะห์การเคลื่อนที่ของกลไกเครื่องจักรโดยใช้โปรแกรมการออกแบบด้วยคอมพิวเตอร์</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020113970">
+            <NameEng>Industrial Electrical Technology</NameEng>
+            <NameThai>เทคโนโลยีไฟฟ้าอุตสาหกรรม</NameThai>
+            <ShrtName>INDUSTRIAL ELECTRICAL TECHNO</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ชนิดของแหล่งกำเนิดไฟฟ้า องค์ประกอบของวงจรไฟฟ้า กฎของโอห์ม  กฎของเคอร์ชอฟฟ์ วงจรไฟฟ้ากระแสตรง วงจรไฟฟ้ากระแสสลับ เครื่องมือวัดทางไฟฟ้า  ระบบไฟฟ้าในโรงงาน   อุปกรณ์ไฟฟ้าในโรงงาน  เครื่องจักรกลไฟฟ้าและพื้นฐานการควบคุม การคำนวณค่าพลังงานทางไฟฟ้าในโรงงานทั้งแบบ TOD และ TOU</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020113980">
+            <NameEng>Engineering Materials Testing Laboratory</NameEng>
+            <NameThai>การประลองการทดสอบวัสดุวิศวกรรม</NameThai>
+            <ShrtName>ENGINEERING MATERIALS TESTIN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การทดสอบวัสดุเพื่อหาสมบัติเชิงกล ด้วยวิธีการทดสอบแรงดึง   การทดสอบความแข็ง   การทดสอบแรงกระแทก    การทดสอบการล้า   การตรวจสอบความเสียหายระดับมหภาคและจุลภาคของวัสดุ  การตรวจพิสูจน์หาสิ่งบกพร่องในวัสดุด้วยวิธีการตรวจสอบแบบไม่ทำลาย การตรวจสอบด้วยสารแทรกซึม การตรวจสอบด้วยอนุภาคแม่เหล็ก การตรวจสอบด้วยอัลตราโซนิกและการตรวจสอบด้วยรังสี 
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020113981">
+            <NameEng>Engineering Drawing</NameEng>
+            <NameThai>เขียนแบบวิศวกรรม</NameThai>
+            <ShrtName>ENGINEERING DRAWING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>มาตรฐานในงานเขียนแบบ   การประยุกต์รูปเรขาคณิต  การกำหนดขนาดมิติ  การเขียนแบบและการสเก็ตช์ภาพสามมิติ  การอ่านและเขียนภาพฉายรูปทรงต่างๆ ภาพตัดและข้อยกเว้น สัญลักษณ์และมาตรฐานของชิ้นส่วนเครื่องกล   การกำหนดคุณภาพผิวตามมาตรฐาน ISO การกำหนดพิกัดความเผื่อ การกำหนดพิกัดความเผื่อ การกำหนดพิกัดความคลาดเคลื่อนของขนาดและรูปร่าง (GD&amp;T) การอ่านและเขียนแบบภาพประกอบและภาพแยกชิ้นที่มีชิ้นส่วนมากชิ้นและซับซ้อน การเขียนแบบภาพคลี่ สัญลักษณ์งานเชื่อม การอ่านและเขียนแบบงานเชื่อม มาตรฐานและสัญลักษณ์แบบงานท่อ การเขียน</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020113982">
+            <NameEng>Basic Metal Working</NameEng>
+            <NameThai>ปฏิบัติงานพื้นฐานงานโลหะ</NameThai>
+            <ShrtName>BASIC METAL WORKING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>พื้นฐานงานโลหะ  งานอ่านแบบ   งานร่างแบบ    งานตะไบ งานเลื่อยมือ งานเจาะรู งานต๊าปเกลียว งานดายเกลียว งานรีมเมอร์รู  งานขูด งานยึดด้วยการพับตะเข็บ งานย้ำหมุด  เครื่องมือวัดละเอียด   หลักการอ่านสเกลและวิธีใช้เครื่องมือวัดละเอียด  เวอร์เนียร์-คาลิปเปอร์  ใบวัดมุม ฉาก หวีวัดเกลียวและเกจวัดผิว  การวางแผนขั้นตอนการขึ้นรูปงานโลหะ  ฝึกทักษะในการใช้เครื่องมือช่างพื้นฐาน ความปลอดภัยในการปฏิบัติงานโลหะและการบำรุงรักษาเครื่องมือ 
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>2</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020113983">
+            <NameEng>Machine Tool Practice</NameEng>
+            <NameThai>ปฏิบัติงานเครื่องมือกล</NameThai>
+            <ShrtName>MACHINE TOOL PRACTICE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เครื่องมือวัดละเอียด    หลักการอ่านสเกลและวิธีใช้เครื่องมือวัดละเอียด   ไมโครมิเตอร์วัดนอก ไมโครมิเตอร์วัดใน นาฬิกาวัด และเกจสอบขนาด ทฤษฎีการตัดเฉือนเบื้องต้น   เครื่องมือตัด  ชนิดของวัสดุมีดตัด   ความเร็วรอบและอัตราป้อน อายุของมีดตัด  การขึ้นรูปชิ้นส่วนเครื่องกลด้วยเครื่องมือกล  หลักการของเครื่องจักรกลอัตโนมัติ กลไกการทำงานของเครื่องจักรกลชนิดต่าง ๆ เครื่องกลึง   เครื่องไส   เครื่องเจียระไน    เครื่องกัด   การปฏิบัติงานผลิตชิ้นส่วนเครื่องกลด้วยเครื่องจักรกลชนิดต่าง ๆ การบำรุงรักษาเครื่องจักรกล</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>2</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020113984">
+            <NameEng>Automatic Machine Practice</NameEng>
+            <NameThai>ปฏิบัติงานเครื่องจักรกลอัตโนมัติ</NameThai>
+            <ShrtName>AUTOMATIC MACHINE PRACTICE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการของเครื่องจักรกลอัตโนมัติ และเครื่องจักรกลที่ควบคุมด้วยคอมพิวเตอร์     ระบบควบคุมเชิงตัวเลขซีเอ็นซี อุปกรณ์และชิ้นส่วนของเครื่องจักรกลซีเอ็นซี  ความรู้เกี่ยวกับการเขียนโปรแกรมซีเอ็นซีและการเชื่อมต่อเครื่องจักรอัตโนมัติ ระบบแคดแคม   เครื่องมือตัดที่ใช้ในงานผลิตกับเครื่องจักรกลอัตโนมัติและการเลือกใช้   ปฏิบัติการผลิตชิ้นส่วนเครื่องกลด้วยเครื่องจักรกลซีเอ็นซี  เครื่องกลึง   เครื่องกัด   และเครื่องวายคัต   เครื่องกัดระบบอีดีเอ็ม  การวัดขนาดชิ้นงานด้วยเครื่องวัดสามแกน การบำรุงรักษาเครื่องจักรก</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>2</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020123201">
+            <NameEng>Engineering Metrology</NameEng>
+            <NameThai>วิศวกรรมการวัดละเอียด</NameThai>
+            <ShrtName>ENGINEERING METROLOGY</ShrtName>
+            <DescEng></DescEng>
+            <DescThai> ความสำคัญของการวัดในงานอุตสาหกรรม    หลักการงานวัดละเอียด    หลักการแบ่งขีดสเกล    การอ่านค่า    การใช้เครื่องมือวัดและเครื่องมือสอบขนาดที่ใช้ในงานวิศวกรรม ความผิดพลาดในการวัด  ฝึกใช้เครื่องมือวัดและเครื่องมือสอบขนาดชนิดต่างๆ  ข้อควรระวังและการบำรุงรักษาเครื่องมือวัด
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020123230">
+            <NameEng>Metal Removal Process</NameEng>
+            <NameThai>การตัดปาดผิวโลหะ</NameThai>
+            <ShrtName>METAL REMOVAL PROCESS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การตัดปาดผิวด้วยคมตัดที่กำหนดทิศทาง   ความเร็วและแรงในการตัด  ผลของความร้อนในการตัดปาดผิว   การสึกหรอของคมตัด  เสถียรภาพของคมตัด   อายุของมีดตัด ชนิดของวัสดุมีดตัด การกำหนดรูปทรงสัณฐานของมีดตัด  การทดลองและวิเคราะห์ตัวแปรต่างๆ ที่มีผลต่อการตัดเฉือนต่อลักษณะเศษตัด   การหล่อเย็นและหล่อลื่น  การตัดปาดผิวด้วยคมตัดที่กำหนดไม่ได้ งานเจียระไน  ตัวแปรต่างๆ ที่มีผลต่อคุณภาพผิวงาน
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020123241">
+            <NameEng>Tool Engineering</NameEng>
+            <NameThai>วิศวกรรมเครื่องมือ</NameThai>
+            <ShrtName>TOOL ENGINEERING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการวิเคราะห์ชิ้นงานเพื่อกำหนดเครื่องมือ  เครื่องมือจับยึดชิ้นงานและอุปกรณ์ที่เหมาะสมสำหรับการผลิต  การขนถ่ายชิ้นงาน  การใส่และถอดชิ้นงานบนอุปกรณ์จับยึด การกำหนดตำแหน่งและการเลือกพื้นผิวอ้างอิงของชิ้นงาน   การเลือกใช้เครื่องมือและตัวจับยึดชิ้นงาน  ประเภทและหลักการทำงานของพันช์  ดายและโมลด์ การออกแบบพันช์ ดายและโมลด์
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123242">
+            <NameEng>Metal Forming Technology</NameEng>
+            <NameThai>เทคโนโลยีการขึ้นรูปโลหะ</NameThai>
+            <ShrtName>METAL FORMING TECHNOLOGY</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>พื้นฐานการขึ้นรูปโลหะแผ่นและโลหะก้อน พื้นฐานทางด้านโลหะวิทยา เส้นโค้งการไหลของโลหะ   กรรมวิธีการขึ้นรูปโลหะแผ่นและก้อนด้วยกรรมวิธีต่างๆ เช่น การตัด  การตัดเจาะ  การดัด  การกดรีดขึ้นรูป  การยู่  การทุบขึ้นรูปและการอัดรีด เป็นต้น  เครื่องมือกลสำหรับการขึ้นรูปโลหะ  การประลองกรรมวิธีการขึ้นรูปโลหะ
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123243">
+            <NameEng>Strength and Plastic Flow Analysis</NameEng>
+            <NameThai>การวิเคราะห์ความแข็งแรงและการไหลของพลาสติก</NameThai>
+            <ShrtName>STRENGTH AND PLASTIC FLOW AN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>กลุ่มของพลาสติก  ลักษณะและรูปร่างของโซ่โมเลกุล  คุณสมบัติของพลาสติก    การวิเคราะห์ความแข็งแรงของชิ้นงานพลาสติก การจำลองเพื่อวิเคราะห์การไหลตัวของงานฉีดพลาสติก  การบิดงอ  การหดตัว   การออกแบบระบบหล่อเย็นและการทำนายผลของชิ้นงานที่เกิดขึ้นหลังการฉีดด้วยโปรแกรมคอมพิวเตอร์
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123244">
+            <NameEng>Die Technology</NameEng>
+            <NameThai>เทคโนโลยีแม่พิมพ์</NameThai>
+            <ShrtName>DIE TECHNOLOGY</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การออกแบบและทำแม่พิมพ์      กรรมวิธีหลักในการทำแม่พิมพ์   การวางแผนกระบวนการ      การวางผังกระบวนการ    การประมาณราคาแม่พิมพ์  เครื่องมือและเครื่องมือกลสำหรับทำแม่พิมพ์  วัสดุแม่พิมพ์และกรรมวิธีทางความร้อน  การออกแบบแม่พิมพ์ดึงขึ้นรูป  แม่พิมพ์ตัด  แม่พิมพ์ตัดเจาะ  แม่พิมพ์ตัดขอบและแม่พิมพ์พับขอบ แบบจำลองที่ใช้ทำแม่พิมพ์ การตรวจสอบแม่พิมพ์ การทดลองแม่พิมพ์ วัสดุชิ้นงาน การใช้และบำรุงรักษาแม่พิมพ์
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123246">
+            <NameEng>Plastic Mould Design</NameEng>
+            <NameThai>การออกแบบแม่พิมพ์พลาสติก</NameThai>
+            <ShrtName>PLASTIC MOULD DESIGN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>วัสดุพลาสติกและการใช้งาน     ประเภทและส่วนประกอบต่างๆ ของแม่พิมพ์ฉีด- พลาสติก การออกแบบ การเลือกใช้วัสดุทำแม่พิมพ์ ชิ้นส่วนแม่พิมพ์มาตรฐาน การคำนวณเกี่ยวกับการออกแบบแม่พิมพ์ฉีด     การร่างแบบอิมเพรสชันของแม่พิมพ์ การร่างแบบรูวิ่งชนิดต่างๆ รูเข้าและการใช้งาน การปลดชิ้นงานแบบต่างๆ การออกแบบระบบหล่อเย็น  การระบายอากาศในแม่พิมพ์   การเขียนแบบสั่งงานและการวางแผนการผลิต
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123247">
+            <NameEng>Tools Design and Making for Manufacturing</NameEng>
+            <NameThai>การออกแบบและสร้างเครื่องมือเพื่อการผลิต</NameThai>
+            <ShrtName>TOOLS DESIGN AND MAKING FOR</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ออกแบบและปฏิบัติการสร้างอุปกรณ์นำเจาะและจับยึดชิ้นงาน (Jigs &amp; Fixtures)  แบบต่าง ๆ และปฏิบัติการสร้างแม่พิมพ์แบบต่างๆ แม่พิมพ์ดึงขึ้นรูป  แม่พิมพ์ตัด  แม่พิมพ์เจาะ   แม่พิมพ์พับขึ้นรูป   วิเคราะห์ปัญหาที่เกิดกับผลิตภัณฑ์เนื่องมาจากเครื่องมือและอุปกรณ์จับยึดและแม่พิมพ์ การใช้ การซ่อมและการบำรุงรักษาเครื่องมือและอุปกรณ์เพื่อการผลิต
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020123248">
+            <NameEng>Automation in Manufacturing</NameEng>
+            <NameThai>ระบบอัตโนมัติในการผลิต</NameThai>
+            <ShrtName>AUTOMATION IN MANUFACTURING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>พื้นฐานของระบบอัตโนมัติในการผลิต การควบคุมอย่างต่อเนื่องโดยระบบไฟฟ้านิวแมติกส์และไฮดรอลิกส์  อุปกรณ์ควบคุมลอจิกแบบโปรแกรมได้  ระบบการผลิตแบบยืดหยุ่น  หุ่นยนต์อุตสาหกรรมและการประยุกต์ใช้งานในการผลิต
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123249">
+            <NameEng>Computer - aided Design and Production</NameEng>
+            <NameThai>คอมพิวเตอร์เพื่อการออกแบบและผลิต</NameThai>
+            <ShrtName>COMPUTER - AIDED DESIGN AND</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>พื้นฐานของการทำงานด้วยระบบแคด (CAD) การออกแบบระบบใน 3 มิติด้วยคอมพิวเตอร์  การจัดเก็บข้อมูลในระบบ 3 มิติ  การส่งถ่ายข้อมูลจากระบบแคด (CAD) ไปแคม (CAM)  การคำนวณและจำลองการผลิตชิ้นงานในระบบ 3 มิติด้วยคอมพิวเตอร์  การแบ่งข้อมูลในการผลิตเพื่อทำโปรแกรมซีเอ็นซี (CNC)     
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123250">
+            <NameEng>Product Design and Technology</NameEng>
+            <NameThai>การออกแบบผลิตภัณฑ์และเทคโนโลยี</NameThai>
+            <ShrtName>PRODUCT DESIGN AND TECHNOLOG</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การออกแบบผลิตภัณฑ์ให้เป็นผลิตภัณฑ์จริงที่ดึงดูดใจลูกค้า ขั้นตอนการออกแบบผลิตภัณฑ์  การออกแบบผลิตภัณฑ์ด้วยคอมพิวเตอร์  การทดลองผลิตผลิตภัณฑ์ต้นแบบ การวิเคราะห์ข้อบกพร่องจากการผลิต ปัญหา สาเหตุ และแนวทางการแก้ไขจุดบกพร่องในผลิตภัณฑ์    การวางแผนขั้นตอนของกระบวนการผลิต  การเลือกใช้เทคโนโลยีการผลิตและเลือกใช้เครื่องมือกลสำหรับการผลิตที่เหมาะสมเพื่อให้ได้ผลิตภัณฑ์ที่ต้องการจนกระทั่งถึงการนำส่ง 
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123251">
+            <NameEng>Welding Processes and Accessories</NameEng>
+            <NameThai>กระบวนการเชื่อมและอุปกรณ์</NameThai>
+            <ShrtName>WELDING PROCESSES AND ACCESS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เทคโนโลยีการเชื่อมต่างๆ กระบวนการเชื่อมแก๊ส ทฤษฏีไฟฟ้าและอิเล็กทรอนิกส์ที่เกี่ยวข้องกับเครื่องเชื่อมและส่วนประกอบต่างๆ หลักการอาร์ค  การเชื่อมแก๊ส การบัดกรี แก๊สที่ใช้ปกคลุมในกระบวนการเชื่อม   การเชื่อมไฟฟ้าด้วยลวดหุ้มฟลักซ์   การเชื่อมแก๊สปกคลุมกระบวนการต่างๆ การเชื่อมด้วยความต้านทานและแรงดันกระบวนการต่างๆ   กระบวนการเชื่อมอื่นๆ  การตัดโลหะด้วยความร้อน      การตัดแก๊ส    การตัดพลาสม่า  การเชื่อมเพื่อเพิ่มคุณสมบัติทางกลต่างๆ การเชื่อมพลาสติก การประลองเกี่ยวกับกระบวนการเชื่อมต่างๆ   
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020123252">
+            <NameEng>Welding Design</NameEng>
+            <NameThai>การออกแบบงานเชื่อม</NameThai>
+            <ShrtName>WELDING DESIGN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการเกี่ยวกับความแข็งแรงของวัสดุ  การออกแบบรอยเชื่อมพื้นฐาน หลักการออกแบบโครงสร้างที่มีรอยเชื่อม รอยต่อชนิดต่างๆ  การแตกหักเสียหาย การออกแบบงานเชื่อมรับภาระสถิตศาสตร์  โครงสร้างอาคารที่เป็น คานหน้าตัดแบบต่างๆ โครงสร้างถัก และชิ้นส่วนเครื่องจักรกล การออกแบบงานเชื่อมรับภาระพลศาสตร์ ภาชนะรับแรงดัน โครงสร้างสะพาน  
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123253">
+            <NameEng>Materials and Their Behaviour During Welding</NameEng>
+            <NameThai>วัสดุและโลหะวิทยาระหว่างการเชื่อม</NameThai>
+            <ShrtName>MATERIALS AND THEIR BEHAVIOU</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>กรรมวิธีการผลิตเหล็กชนิดต่างๆ     การทดสอบวัสดุและทดสอบรอยเชื่อม  โครงสร้างโลหะงานเชื่อม การบำบัดด้วยความร้อน โครงสร้างรอยเชื่อมเหล็กคาร์บอนและคาร์บอนแมงกานิส เหล็กเกรนละเอียด  เหล็ก TMCP  เหล็กความแข็งแรงสูง เหล็กหล่อ เหล็กผสมต่ำสำหรับใช้ในอุณหภูมิต่ำ เหล็กต้านทานการคืบ  เหล็กทนความร้อน   เหล็กหล่อ  ทองแดงและทองแดงผสม นิกเกิลและนิกเกิลผสม อลูมิเนียมและอลูมิเนียมผสม  ไททาเนียมและไททาเนียมผสม   การกัดกร่อนในเหล็กกล้าไร้สนิม ทฤษฎีการแตกร้าวในเหล็กกล้าชนิดต่างๆ การสึกหรอและการป้องกัน  การเชื่อมต่อว</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123254">
+            <NameEng>Fabrication and Application Engineering in Welding Work</NameEng>
+            <NameThai>งานประกอบและการใช้งานด้านวิศวกรรมงานเชื่อม</NameThai>
+            <ShrtName>FABRICATION AND APPLICATION</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ระบบประกันคุณภาพและการควบคุมคุณภาพของงานเชื่อม  มาตรฐานบริหารงานคุณภาพสากล ISO 9001 มาตรฐานของสถาบันโครงสร้างเหล็กกล้าแห่งชาติอเมริกา (AISC)  มาตรฐานงานโครงสร้างของสมาพันธ์ยุโรป EN 1090 ระบบประกันคุณภาพด้านงานเชื่อมสากล ISO 3834  มาตรฐานสำหรับการผลิตงานด้านงานเชื่อม ISO, EN, ASME,AWS, JIS   มาตรการรับรองความรู้ความสามารถของบุคลากร  ISO 17341, ISO 9606, EN 287, AWS D1.1, JIS, CWB  มาตรฐานสำหรับการรับรองกระบวนการ  รายละเอียดการเชื่อม (WPS) ISO 15609,  ASME IX, AWS D 1.1, และการรับรองคุณสมบัติของกา</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="020123255">
+            <NameEng>Production and Industrial Engineering Training</NameEng>
+            <NameThai>การฝึกงานด้านวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <ShrtName>PRODUCTION &amp; IND ENGR TRAINING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>นักศึกษาต้องฝึกงานในหน่วยงานรัฐบาล หรือสถานประกอบการที่เกี่ยวข้องกับงานทางด้านวิศวกรรมการผลิตและอุตสาหการ โดยนักศึกษาจะต้องผ่านการอบรมการเตรียมความพร้อมก่อนออกฝึกงาน และรายงานผลการฝึกงานต่ออาจารย์ผู้ควบคุมตามกระบวนการที่คณะกรรมการประจำหลักสูตรกำหนด
+
+</DescThai>
+            <Flag>3</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>240</No_Hlab>
+        </Course>
+        <Course code="020123270">
+            <NameEng>Statistics for Production and Industrial Engineering</NameEng>
+            <NameThai>สถิติสำหรับงานวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <ShrtName>STATISTICS FOR PRODUCTION AN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ลักษณะและสมบัติของข้อมูลและการวิเคราะห์  ความน่าจะเป็น ตัวแปรสุ่ม การแจกแจงความน่าจะเป็นแบบช่วง  การแจกแจงความน่าจะเป็นแบบต่อเนื่อง  การแจกแจงของสิ่งตัวอย่าง  ทฤษฎีการประมาณค่า  การทดสอบสมมติฐาน  การวิเคราะห์ความแปรปรวน  การวิเคราะห์การถดถอยเชิงเส้นตรงอย่างง่ายและสหสัมพันธ์    
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123271">
+            <NameEng>Quality Control</NameEng>
+            <NameThai>การควบคุมคุณภาพ</NameThai>
+            <ShrtName>QUALITY CONTROL</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความสำคัญของการควบคุมคุณภาพ ประวัติความเป็นมา สถิติที่เกี่ยวข้องกับการควบคุมคุณภาพ   แผนภูมิควบคุมสำหรับลักษณะคุณภาพที่วัดได้  แผนภูมิควบคุมคุณภาพที่นับได้  ความผันแปรและความสามารถของกระบวนการ    แผนการสุ่มตัวอย่างเพื่อการตรวจสอบและการยอมรับ  ค่าใช้จ่ายต่างๆ ในการควบคุมคุณภาพ  ทฤษฎีความน่าเชื่อถือของกระบวนการผลิตและผลิตภัณฑ์    การบริหารคุณภาพแบบทุกคนมีส่วนร่วม  ระบบมาตรฐานการจัดการคุณภาพสากล ISO 9000  รางวัลคุณภาพแห่งชาติ
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123272">
+            <NameEng>Production Planning and Inventory Control</NameEng>
+            <NameThai>การวางแผนการผลิตและควบคุมวัสดุคงคลัง</NameThai>
+            <ShrtName>PRODUCTION PLANNING AND INVE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ระบบการผลิต  เทคนิคการพยากรณ์  การวิเคราะห์ต้นทุนและกำไรเพื่อการตัดสินใจในการผลิต  การวางแผนการผลิตระยะยาว ระยะกลางและระยะสั้น  เทคนิคและวิธีการกำหนดตารางการผลิต  การจัดลำดับงานเพื่อการผลิตแบบอนุกรมและแบบขนาน การวางแผนการจัดหาวัสดุ  การควบคุมการผลิต  การควบคุมและบริหารวัสดุคงคลัง  ระบบการผลิตสมัยใหม่
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123273">
+            <NameEng>Maintenance Engineering</NameEng>
+            <NameThai>วิศวกรรมบำรุงรักษา</NameThai>
+            <ShrtName>MAINTENANCE ENGINEERING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความหมายของการบำรุงรักษาในงานอุตสาหกรรมและการบำรุงรักษาทวีผล สถิติความเสียหาย ความน่าเชื่อถือ การวิเคราะห์ความสามารถและความพร้อมใช้งานเครื่องจักร การหล่อลื่น การบำรุงรักษาเชิงป้องกัน  การบำรุงรักษาเชิงเฝ้าระมัดระวังติดตามสภาพ ระบบการสั่งซ่อมและการควบคุมการซ่อมบำรุง การบริหารจัดการบุคลากรและทรัพยากรในการซ่อมบำรุง ระบบจัดการบริหารการบำรุงรักษาด้วยคอมพิวเตอร์ การรายงานผลและดัชนีชี้วัดการบำรุงรักษา  การพัฒนาระบบการบำรุงรักษา
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123274">
+            <NameEng>Safety Engineering</NameEng>
+            <NameThai>วิศวกรรมความปลอดภัย</NameThai>
+            <ShrtName>SAFETY ENGINEERING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักวิธีในการป้องกันความสูญเสียและอุบัติเหตุ การออกแบบและการควบคุมสถานที่เสี่ยงอันตรายและอวัยวะของบุคคล เทคนิคและระบบการบริหารจัดการด้านความปลอดภัย  กฎหมายเกี่ยวกับความปลอดภัยในอุตสาหกรรม   ความสัมพันธ์ระหว่างการออกแบบเพื่อความปลอดภัยและประสิทธิภาพการผลิต       การวิเคราะห์ความเสี่ยง   หลักการการควบคุมสภาพแวดล้อมทางอุตสาหกรรม   จิตวิทยาอุตสาหกรรมและเทคนิคการปฐมพยาบาล
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123275">
+            <NameEng>Plant Layout and Design</NameEng>
+            <NameThai>การออกแบบและวางผังโรงงาน</NameThai>
+            <ShrtName>PLANT LAYOUT AND DESIGN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ออกแบบโครงร่างผังโรงงานตามลักษณะกิจการ ที่เกี่ยวข้องกับขนาดและรูปแบบของอาคาร  วางแผนการจัดเตรียมและการวิเคราะห์เบื้องต้นเกี่ยวกับการออกแบบ การวางผังเครื่องจักร อุปกรณ์สนับสนุนการผลิต การขนถ่ายวัสดุ  ปัญหาและอุปสรรคในการวางผังโรงานตามลักษณะปัจจัยเชิงเศรษฐศาสตร์และสิ่งแวดล้อม  ข้อกำหนดสถานที่ตั้งโรงงาน  การวิเคราะห์รูปแบบสถานที่ตั้งต่างๆ  ระบบการวางผังและระบบเสริมสำหรับโรงงานอุตสาหกรรม
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123276">
+            <NameEng>Production Machinery and Facility System</NameEng>
+            <NameThai>เครื่องจักรและระบบสนับสนุนการผลิต</NameThai>
+            <ShrtName>PRODUCTION MACHINERY AND FAC</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การจำแนกประเภทและชนิดของเครื่องมือและเครื่องจักรสำหรับสนับสนุนการผลิต กฎเกณฑ์ในการเลือกใช้เครื่องมือและเครื่องจักร  ชิ้นส่วนประกอบและหน้าที่การทำงาน การคำนวณหาภาระงานในการทำงานสนับสนุนการผลิตเพื่อการเคลื่อนย้ายและขนส่งชิ้นงาน  การติดตั้งส่วนประกอบและควบคุมการทำงานของระบบน้ำ  ระบบลม และระบบความทางความร้อน การตรวจสอบและบำรุงรักษาเครื่องจักรและระบบสนับสนุนการผลิต
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123277">
+            <NameEng>Quality Assurance</NameEng>
+            <NameThai>การประกันคุณภาพ</NameThai>
+            <ShrtName>QUALITY ASSURANCE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>วิวัฒนาการของคุณภาพ   แนวความคิดเกี่ยวกับลูกค้าและการบ่งชี้ความต้องการของลูกค้า  การแปลงหน้าที่ด้านคุณภาพ  การประกันคุณภาพในงานออกแบบ  งานผลิตและงานบริการหลังการขาย  การวางแผนคุณภาพและการตรวจติดตามด้านคุณภาพ  เทคนิคทางสถิติในงานประกันคุณภาพ  รวมทั้งการประยุกต์ระบบคุณภาพให้เหมาะสมกับองค์กรทางอุตสาหกรรม
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123278">
+            <NameEng>Work Study and Productivity</NameEng>
+            <NameThai>การศึกษาการทำงานและการเพิ่มผลผลิต</NameThai>
+            <ShrtName>WORK STUDY AND PRODUCTIVITY</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การเพิ่มผลผลิตในอุตสาหกรรม  การวัดและประเมินการเพิ่มผลผลิตเบื้องต้น    เทคนิคการเพิ่มผลผลิต   ความรู้เบื้องต้นเกี่ยวกับการเคลื่อนไหวและเวลา  การวิเคราะห์กระบวนการและการไหลของงาน  การสร้างและใช้แผนภูมิและไดอะแกรมต่าง ๆ  การประยุกต์การศึกษาการทำงาน   หลักเศรษฐศาสตร์การเคลื่อนไหวในการปรับปรุงการทำงาน   เทคนิคการกำหนดเวลามาตรฐานการทำงาน  การจับเวลา  การสุ่มงาน  ระบบข้อมูลมาตรฐาน  เครื่องมืออุปกรณ์ช่วยในการศึกษาการทำงาน  ระบบการจูงใจในการทำงาน  ความเกี่ยวโยงของการศึกษาการทำงานและการยศาสตร์  
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123279">
+            <NameEng>Ergonomics</NameEng>
+            <NameThai>การยศาสตร์</NameThai>
+            <ShrtName>ERGONOMICS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>โครงสร้างและขนาดสัดส่วนร่างกายของมนุษย์     ปฏิสัมพันธ์ระหว่างคนกับคน  คนกับเครื่องจักร ความสามารถในการทำงานของมนุษย์  งานซ้ำซาก  งานกะ  ความเครียด ความล้า  ความแข็งแรงของร่างกาย     ความทนทานของร่างกาย    การจัดสภาพแวดล้อมการทำงาน  วิธีทำงานและสถานที่ทำงานให้เหมาะสมกับลักษณะของงานและผู้ปฏิบัติงาน
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123280">
+            <NameEng>Machinery Management</NameEng>
+            <NameThai>การจัดการเครื่องจักรกล</NameThai>
+            <ShrtName>MACHINERY MANAGEMENT</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การพิจารณาเลือกเครื่องจักรที่จำเป็นต้องใช้ในโรงงาน  การเลือกใช้เครื่องจักรกลที่เหมาะสมกับสภาพงาน  การหาประสิทธิภาพของเครื่องจักรกล  การคิดค่าเสื่อมราคาของเครื่องจักร การคิดค่าใช้จ่ายคงที่ ค่าใช้จ่ายแปรผัน การตัดสินใจในการเปลี่ยนเครื่องจักรที่ใช้งานและการเปรียบเทียบด้านต้นทุนการผลิต   การวางแผนการใช้เครื่องจักรในอนาคต การวางผังโรงงาน   การวางแผนการไหลของวัสดุเพื่อการผลิตอย่างมีประสิทธิภาพ   การบริหารและการวางแผนการบำรุงรักษาเครื่องจักรกลที่ถูกต้อง
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123281">
+            <NameEng>Supply Chain Management</NameEng>
+            <NameThai>การจัดการโซ่อุปทาน</NameThai>
+            <ShrtName>SUPPLY CHAIN MANAGEMENT</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการพื้นฐานของการจัดการโซ่อุปทาน   ข้อปฏิบัติที่ดีที่สุดในการพิจารณาถึงนวัตกรรมใหม่ในการจัดการโซ่อุปทาน การสร้างกรอบการทำงานเพื่อที่จะจัดการกิจกรรมทั้งหมดตั้งแต่แหล่งวัตถุดิบไปจนถึงลูกค้า       การจัดการโซ่อุปทานจะรวมไปถึง การจัดการองค์กร การดำเนินงานสารสนเทศและความรู้    การจัดการคุณภาพ    เทคโนโลยีการแข่งขันระดับโลก
+
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123282">
+            <NameEng>Special Topics in Production and Industrial Engineering</NameEng>
+            <NameThai>หัวข้อพิเศษทางด้านวิศวกรรมการผลิตและอุตสาหการ</NameThai>
+            <ShrtName>SPECIAL TOPICS IN PRODUCTION</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ศึกษาหรือวิจัยปัญหาเฉพาะด้านวิศวกรรมการผลิต   ทางด้านกระบวนการการผลิต หรือวิศวกรรมอุตสาหการ หรือการบริหารจัดการการผลิตที่เป็นปัญหาในหัวข้อที่สามารถศึกษาวิจัยและสรุปผลสำเร็จได้ใน 1 ภาคการศึกษา
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="020123283">
+            <NameEng>Co-operative Education</NameEng>
+            <NameThai>สหกิจศึกษา</NameThai>
+            <ShrtName>CO-OPERATIVE EDUCATION</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>นักศึกษาเข้าปฏิบัติงานในสถานประกอบการที่ศูนย์อุตสาหกรรมสัมพันธ์และสหกิจศึกษา (ศอส.) มหาวิทยาลัยเทคโนโลยีพระจอมเกล้าพระนครเหนือจัดให้ ในสายงานที่เกี่ยวข้องทางด้านวิศวกรรมการผลิตหรืออุตสาหการ โดยนักศึกษาทุกคนจะต้องผ่านการอบรม สัมมนา และกิจกรรมการเตรียมความพร้อมก่อนทำงานตามกระบวนการที่คณะกรรมการประจำหลักสูตรกำหนด       นักศึกษาต้องรายงานผลการทำงานต่ออาจารย์ผู้ควบคุม และรับการประเมินผลการปฏิบัติงานตามกระบวนการที่คณะกรรมการประจำหลักสูตรกำหนด
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>6</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>6</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>560</No_Hlab>
+        </Course>
+        <Course code="020123286">
+            <NameEng>Seminar</NameEng>
+            <NameThai>สัมมนา</NameThai>
+            <ShrtName>SEMINAR</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>นักศึกษาจะต้องศึกษาค้นคว้า วิเคราะห์  เพื่อค้นหาหัวข้อในการจัดทำโครงงานเป็นรายบุคคลหรือเป็นกลุ่มในเรื่องที่เกี่ยวข้องกับสาขาวิชาวิศวกรรมการผลิตและอุตสาหการ โดยความเห็นชอบจากคณะกรรมการประจำหลักสูตร    และจะต้องมีการทำโครงร่างและการสอบหัวข้อโครงงานตามข้อกำหนดของกรรมการประจำหลักสูตร โดยมีการวัดและประเมินผลเป็น S/U
+
+
+
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>1</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>3</No_Hlab>
+        </Course>
+        <Course code="020123287">
+            <NameEng>Project I</NameEng>
+            <NameThai>โครงงาน 1</NameThai>
+            <ShrtName>PROJECT I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ภายหลังจากที่นักศึกษาได้หัวข้อปริญญานิพนธ์แล้ว    นักศึกษาจะต้องวิเคราะห์  ออกแบบและจัดทำโครงงานระดับปริญญาตรี     โดยนำเอาความรู้ความสามารถที่ได้เรียนมานำมาสร้างโครงงานพิเศษ   เครื่องมือ เครื่องจักร   เครื่องทดสอบ   ตลอดจนวัสดุอุปกรณ์  สื่อการเรียนการสอนที่เป็นประโยชน์ และจะต้องนำเสนอความก้าวหน้าต่อคณะกรรมการเป็นระยะ ๆ  และสิ้นสุดเมื่อนักศึกษาได้จัดส่งรายงานความก้าวหน้าของโครงงานตามข้อกำหนดของกรรมการประจำหลักสูตร
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>2</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="020123288">
+            <NameEng>Project II</NameEng>
+            <NameThai>โครงงาน 2</NameThai>
+            <ShrtName>PROJECT II</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เป็นการศึกษาค้นคว้าจัดทำโครงงานต่อจากวิชาโครงงาน 1  เพื่อพัฒนาคุณภาพไปสู่จุดที่สูงกว่า  โดยจะต้องสอบรายงานความก้าวหน้า  สอบป้องกันงานที่ทำและเสนอรายงานการศึกษาที่สมบูรณ์ตามข้อกำหนดกรรมการประจำหลักสูตร
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>2</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>6</No_Hlab>
+        </Course>
+        <Course code="030113260">
+            <NameEng>Fundamental Drawing and Management</NameEng>
+            <NameThai>ความรู้ทั่วไปและการจัดการงานเขียนแบบ</NameThai>
+            <ShrtName>FUND DRAWING &amp; MANAGE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักและทฤษฎีของงานเขียนแบบ ความสำคัญของแบบงาน องค์ประกอบของ  แบบงานที่สามารถแสดงทั้งด้านพื้นที่ ขนาด รูปทรง รูปร่างและมิติ การนำความรู้ด้านงานเขียนแบบไปประยุกต์ใช้ในชีวิตประจำวัน เช่น การอ่านคู่มือ และภาพถอดประกอบของผลิตภัณฑ์ การใช้คอมพิวเตอร์ช่วยการจัดการงานเขียนแบบ
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>2</Crd>
+            <Crd_Lec>1</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>1</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="040113005">
+            <NameEng>Chemistry in Everyday Life</NameEng>
+            <NameThai>เคมีในชีวิตประจำวัน</NameThai>
+            <ShrtName>CHEMISTRY IN EVERYDAY LIFE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ผลิตภัณฑ์เคมีต่างๆในชีวิตประจำวัน เช่น สบู่ ยาสีฟัน สารทำความสะอาด เครื่องสำอาง นมและผลิตภัณฑ์ของนม น้ำตาล กระดาษ ซีเมนต์ ยารักษาโรค ตลอดจนผลิตภัณฑ์ที่เกี่ยวกับการเกษตร เป็นต้น   รวมทั้งการใช้สารเคมีอย่างถูกวิธีและการแก้ไขพิษจากสารเคมีเบื้องต้น
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="040203111">
+            <NameEng>Engineering Mathematics I</NameEng>
+            <NameThai>คณิตศาสตร์วิศวกรรม 1</NameThai>
+            <ShrtName>ENGINEERING MATHEMATICS I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เรขาคณิตวิเคราะห์ พิกัดเชิงขั้ว สมการอิงตัวแปรเสริม พีชคณิตของเวกเตอร์ เส้นตรงและระนาบในปริภูมิสามมิติ ลิมิต ความต่อเนื่อง การหาอนุพันธ์และการอินทิเกรตฟังก์ชันค่าจริง ของหนึ่งตัวแปรจริง และการประยุกต์รูปแบบยังไม่กำหนด เทคนิคการอินทิเกรต  การอินทิเกรตเชิงตัวเลข  อินทิกรัลไม่ตรงแบบ
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="040203112">
+            <NameEng>Engineering Mathematics II</NameEng>
+            <NameThai>คณิตศาสตร์วิศวกรรม 2</NameThai>
+            <ShrtName>ENGINEERING MATHEMATICS II</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>อุปนัยเชิงคณิตศาสตร์   ลำดับและอนุกรม   การกระจายแบบอนุกรมเทย์เลอร์ของฟังก์ชันมูลฐาน  อนุกรมฟูเรียร์   เมทริกซ์และดีเทอร์มิแนนท์   ระบบสมการเชิงเส้น ค่าเจาะจงและเวกเตอร์เจาะจง พื้นผิวในปริภูมิสามมิติ  ลิมิต ความต่อเนื่อง  การหาอนุพันธ์และการอินทิเกรต  ฟังก์ชันค่าจริงของหลายตัวแปรและการประยุกต์
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="040313010">
+            <NameEng>Physics</NameEng>
+            <NameThai>ฟิสิกส์</NameThai>
+            <ShrtName>PHYSICS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เวคเตอร์ กลศาสตร์การเคลื่อนที่ กฎการเคลื่อนที่ของนิวตัน   การเคลื่อนที่แบบเส้นตรง    การเคลื่อนที่แบบวงกลม   การเคลื่อนที่แบบซิมเปิลฮาร์โมนิก  การจำแนกคลื่น  สมการคลื่น   คลื่นนิ่ง   ระดับความเข้มเสียง  การส่งผ่านความร้อน  สมการก๊าซอุดมคติ   กฎแห่งอุณหพลศาสตร์ กลจักรความร้อน คุณสมบัติทางกายภาพของของไหล กฎของปาสคาล การวัดความดัน   และปฏิบัติการต่างๆ ภายใต้หัวข้อการบรรยาย
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>2</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>2</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="080103001">
+            <NameEng>English I</NameEng>
+            <NameThai>ภาษาอังกฤษ 1</NameThai>
+            <ShrtName>ENGLISH I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>บูรณาการทักษะการฟัง การพูด การอ่านและการเขียนในระดับพื้นฐานเพื่อประยุกต์ใช้ในชีวิตประจำวัน   โดยคำนึงถึงความหลากหลายทางวัฒนธรรมของการใช้ภาษา ผ่านการเรียนรู้คำศัพท์และไวยากรณ์จากบทสนทนา บทความเชิงวิชาการและบทความทั่วไป การเขียนประโยคและย่อหน้าที่มีโครงสร้างไม่ซับซ้อน  ตลอดจนการฝึกทักษะเพิ่มเติมที่ศูนย์การเรียนรู้แบบพึ่งตนเอง
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103002">
+            <NameEng>English II</NameEng>
+            <NameThai>ภาษาอังกฤษ 2</NameThai>
+            <ShrtName>ENGLISH II</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>บูรณาการทักษะการฟัง การพูด การอ่านและการเขียนในระดับที่สูงขึ้น เพื่อประยุกต์ใช้ในชีวิตประจำวัน   โดยคำนึงถึงความหลากหลายทางวัฒนธรรมของการใช้ภาษา ผ่านการเรียนรู้คำศัพท์และไวยากรณ์จากบทสนทนา บทความเชิงวิชาการและบทความทั่วไป การเขียนประโยคที่มีโครงสร้างซับซ้อนและย่อหน้าขนาดสั้น การฝึกทักษะเพิ่มเติมที่ศูนย์การเรียนรู้แบบพึ่งตนเองเพื่อส่งเสริมการเรียนรู้ตลอดชีวิต
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103011">
+            <NameEng>English Study Skills</NameEng>
+            <NameThai>ทักษะการเรียนภาษาอังกฤษ</NameThai>
+            <ShrtName>ENGLISH STUDY SKILLS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ส่งเสริมทักษะในการจัดการเรียนรู้ด้วยตนเอง   โดยอาศัยเทคนิคต่างๆในการเรียนภาษาอังกฤษ   เช่น    การใช้พจนานุกรมภาษาอังกฤษเพื่อช่วยในการพูด       การอ่านและการเขียน การจดบันทึกย่อ การย่อความ การจัดระเบียบตนเองในการเรียน เช่น การวางแผน การตรวจสอบและการประเมินการเรียนรู้ของตนเอง เพื่อใช้เป็นเครื่องมือสำหรับการศึกษาภาษาอังกฤษในระดับที่สูงขึ้น
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103012">
+            <NameEng>Reading I</NameEng>
+            <NameThai>การอ่าน 1</NameThai>
+            <ShrtName>READING I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>กลวิธีการอ่าน เช่น การอ่านแบบกวาดสายตา การอ่านเพื่อหาข้อมูลเฉพาะ และการเดาความหมายโดยอาศัยบริบท  เพื่อประยุกต์ใช้ในการอ่านและการสร้างความเข้าใจด้วยตนเอง พัฒนาทักษะการอ่านโดยการทำกิจกรรมและแบบฝึกหัดในชั้นเรียน
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103014">
+            <NameEng>Writing I</NameEng>
+            <NameThai>การเขียน 1</NameThai>
+            <ShrtName>WRITING I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การเขียนโดยใช้โครงสร้างประโยคต่างๆ เช่น ประโยคใจความเดียว ประโยคใจความรวมและประโยคใจความซ้อน การเขียนโครงร่าง การเขียนย่อหน้าและการเขียนลำดับเรื่องโดยเลือกใช้คำศัพท์ที่สอดคล้องกับบริบท
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103016">
+            <NameEng>English Conversation I</NameEng>
+            <NameThai>การสนทนาภาษาอังกฤษ 1</NameThai>
+            <ShrtName>ENGLISH CONVERSATION I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ทักษะการออกเสียงและการพูดเบื้องต้นเพื่อการสื่อสารในชีวิตประจำวัน  การแนะนำตนเอง การบรรยายลักษณะสิ่งต่างๆ  การบอกทิศทางและการแสดงความคิดเห็น
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103017">
+            <NameEng>English Conversation II</NameEng>
+            <NameThai>การสนทนาภาษาอังกฤษ 2</NameThai>
+            <ShrtName>ENGLISH CONVERSATION II</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ทักษะการออกเสียงและการพูดในระดับโครงสร้างประโยคที่ซับซ้อนขึ้น เพื่อการสื่อสารในสถานการณ์แบบเตรียมตัวและแบบไม่เตรียมตัว ทักษะการสื่อสารภาษาอังกฤษในชีวิตประจำวันโดยเน้นการพูดและฟัง</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103018">
+            <NameEng>English for Work</NameEng>
+            <NameThai>ภาษาอังกฤษเพื่อการทำงาน</NameThai>
+            <ShrtName>ENGLISH FOR WORK</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ทักษะการใช้ภาษาเพื่อการทำงาน  การเขียนจดหมายสมัครงาน  จดหมายธุรกิจ  บันทึกต่าง ๆ    การสัมภาษณ์งาน การนัดหมายทางโทรศัพท์    การต้อนรับผู้เยี่ยมชม  การเจรจาต่อรอง   การอธิบายตำแหน่งหน้าที่การงานและสินค้าของบริษัท  การเขียน การนำเสนอและการประเมินผลโครงการ
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103061">
+            <NameEng>Practice English I</NameEng>
+            <NameThai>การใช้ภาษาอังกฤษ 1</NameThai>
+            <ShrtName>PRACTICE ENGLISH I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การบูรณาการทักษะทั้งสี่ การฝึกฝนด้านการอ่านและการเขียน ประกอบด้วย โครงสร้าง รูปประโยคพื้นฐาน คำศัพท์ และการอ่านบทความสั้นๆ รวมทั้งทักษะการสื่อสารพื้นฐานที่จำเป็นในชีวิตประจำวัน
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080103062">
+            <NameEng>Practice English I</NameEng>
+            <NameThai>การใช้ภาษาอังกฤษ 2</NameThai>
+            <ShrtName>PRACTICE ENGLISH I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>การพัฒนาทักษะทั้งสี่ การอ่านบทความจากตำรา นิตยสาร และหนังสือพิมพ์ที่มี   ความยาวมากขึ้น รวมทั้งเขียนประโยคที่ซับซ้อน และงานเขียนที่มอบหมาย การฝึกฝนทักษะด้านการสื่อสาร  ในสถานการณ์หลากหลายรูปแบบ 
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080203901">
+            <NameEng>Man and Society</NameEng>
+            <NameThai>มนุษย์กับสังคม</NameThai>
+            <ShrtName>MAN AND SOCIETY</ShrtName>
+            <DescEng></DescEng>
+            <DescThai> มนุษย์  การตั้งถิ่นฐานและการอยู่รวมกันเป็นสังคม ลักษณะทั่วไปของสังคมมนุษย์  การจัดระเบียบทางสังคม การขัดเกลาทางสังคม วัฒนธรรม สถาบันทางสังคม การเปลี่ยน- แปลงทางสังคมและการวิเคราะห์ปัญหาของมนุษย์ในสังคม
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080203904">
+            <NameEng>Law for Everyday Life</NameEng>
+            <NameThai>กฎหมายในชีวิตประจำวัน</NameThai>
+            <ShrtName>LAW FOR EVERYDAY LIFE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ลักษณะและวิวัฒนาการของกฎหมาย   ประเภทของกฎหมาย   ความรู้เกี่ยวกับกฎหมาย  วงจรชีวิตในสังคมและการเป็นพลเมืองที่ดีของประเทศ
+
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080203906">
+            <NameEng>Economics for Individual  Development</NameEng>
+            <NameThai>เศรษฐศาสตร์เพื่อการพัฒนาชีวิต</NameThai>
+            <ShrtName>ECONOMICS FOR INDIVIDUAL  DE</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>เศรษฐศาสตร์และการประยุกต์ใช้ในการแก้ปัญหาต่างๆ ในการดำเนินชีวิตทั้งทางเศรษฐกิจและสังคม   ตลอดจนมีศักยภาพไปสู่การประกอบวิชาชีพต่างๆ ได้อย่างเหมาะสม เพื่อนำไปสู่การพัฒนาชีวิตตามแนวปรัชญาเศรษฐกิจพอเพียง
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080203907">
+            <NameEng>Business and Everyday Life</NameEng>
+            <NameThai>ธุรกิจกับชีวิตประจำวัน</NameThai>
+            <ShrtName>BUSINESS AND EVERYDAY LIFE</ShrtName>
+            <DescEng>Basic ideas in business management, nature of business, environment, model, business ownership and problems in business</DescEng>
+            <DescThai>ความคิดพื้นฐานด้านการบริหารธุรกิจ  ลักษณะของธุรกิจ สภาพแวดล้อม รูปแบบความเป็นเจ้าของธุรกิจ กรณีศึกษา และปัญหาเฉพาะด้านทางธุรกิจ
+	
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080303104">
+            <NameEng>Psychology for Work</NameEng>
+            <NameThai>จิตวิทยาเพื่อการทำงาน</NameThai>
+            <ShrtName>PSYCHOLOGY FOR WORK</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>จิตวิทยา การนำจิตวิทยาไปประยุกต์ใช้ในการทำงาน ความแตกต่างระหว่างบุคคล การจูงใจ การตัดสินใจ การแก้ปัญหาความขัดแย้งในการทำงาน การสร้างทีมงาน พฤติกรรมกลุ่ม  การมอบหมายงาน  การสอนงานและการสื่อสารในที่ทำงาน
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080303201">
+            <NameEng>Effective Speech</NameEng>
+            <NameThai>การพูดเพื่อประสิทธิผล</NameThai>
+            <ShrtName>EFFECTIVE SPEECH</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความสำคัญของการพูด องค์ประกอบของการพูด การวิเคราะห์กลุ่มผู้ฟัง            การเตรียมการพูดและการใช้หลักจิตวิทยาในการพูด    การพูดเพื่อให้เกิดประสิทธิผล การพูดในโอกาส ต่าง ๆ การประเมินผลการพูดของตนเองและผู้อื่น
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080303501">
+            <NameEng>Basketball</NameEng>
+            <NameThai>บาสเกตบอล</NameThai>
+            <ShrtName>BASKETBALL</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>วัฒนาการต่าง ๆ เกี่ยวกับกีฬาบาสเกตบอลตั้งแต่แรกเริ่มจนถึงปัจจุบัน  ฝึกให้มีทักษะพื้นฐานนำไปใช้ในการเล่นทีม  ตลอดจนความรู้  ความเข้าใจ  กฎ  กติกา  การเตรียมอุปกรณ์และทัศนคติที่ดี
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="080303502">
+            <NameEng>Volleyball</NameEng>
+            <NameThai>วอลเลย์บอล</NameThai>
+            <ShrtName>VOLLEYBALL</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ประวัติกีฬาวอลเลย์บอล  การฝึกทักษะเบื้องต้น  และเทคนิคการเล่น กฎ กติกา  และ  สัญญาณ  การตัดสิน  เตรียมอุปกรณ์  และการปลูกฝังความรู้  ความเข้าใจ  และทัศนคติที่ดี
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="080303503">
+            <NameEng>Badminton</NameEng>
+            <NameThai>แบดมินตัน</NameThai>
+            <ShrtName>BADMINTON</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ความเข้าใจเกี่ยวกับกีฬาแบดมินตัน  การฝึกทักษะเบื้องต้น   เทคนิคการเล่น  กฎ  กติกา  การเตรียมอุปกรณ์  เลือกใช้อุปกรณ์ที่เหมาะสมและสามารถนำทักษะเบื้องต้นไปใช้ในการเล่นแบดมินตันได้  การเป็นผู้เล่นและผู้ชมที่ดี
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="080303504">
+            <NameEng>Dancing</NameEng>
+            <NameThai>ลีลาศ</NameThai>
+            <ShrtName>DANCING</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>ประวัติของการลีลาศ  ทักษะเบื้องต้นของการลีลาศ  มารยาทของการลีลาศ   การปลูกฝัง ความรู้ความเข้าใจและทัศนคติที่ดี   การเต้นรำแบบละติน  แบบบอลรูม  และแบบเบ็ดเตล็ด การจัดงานลีลาศ
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>1</Crd>
+            <Crd_Lec>0</Crd_Lec>
+            <Crd_Lab>1</Crd_Lab>
+            <No_Hlec>0</No_Hlec>
+            <No_Hlab>2</No_Hlab>
+        </Course>
+        <Course code="080303601">
+            <NameEng>Human Relations</NameEng>
+            <NameThai>มนุษยสัมพันธ์</NameThai>
+            <ShrtName>HUMAN RELATIONS</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>หลักการและทฤษฎีว่าด้วยพฤติกรรมของบุคคล  การเข้าใจตนเองและผู้อื่น  การพัฒนาตนเอง ความรู้พื้นฐานและมารยาททางสังคม การติดต่อสื่อสารและการทำงานร่วมกัน การบริหารความขัดแย้ง   และการนำหลักธรรมทางศาสนามาประยุกต์ใช้ในการสร้างมนุษยสัมพันธ์
+
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="080303606">
+            <NameEng>Systematic and Creative Thinking</NameEng>
+            <NameThai>การคิดเชิงระบบและความคิดสร้างสรรค์</NameThai>
+            <ShrtName>SYSTEMATIC AND CREATIVE THIN</ShrtName>
+            <DescEng></DescEng>
+            <DescThai>พื้นฐานการทำงานของสมอง  ความสำคัญของการคิด   ลักษณะการคิดของสมองซีกซ้ายและซีกขวา  ความหมายของการคิดเชิงระบบ  ลักษณะของการคิดเชิงระบบ    คุณลักษณะของนักคิดเชิงระบบ เทคนิคการคิดเชิงระบบ ความสำคัญของความคิดสร้างสรรค์ ลักษณะพิเศษของความคิดสร้างสรรค์   ลักษณะของบุคคลที่มีความคิดสร้างสรรค์     กระบวนการคิดสร้างสรรค์      เทคนิคการพัฒนาความคิดสร้างสรรค์และการประยุกต์ใช้ความคิดสร้างสรรค์
+
+
+
+
+</DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="XXXXXXXX1">
+            <NameEng>Free Elective Course I</NameEng>
+            <NameThai>วิชาเลือกเสรี 1</NameThai>
+            <ShrtName>FREE ELECTIVE COURSE I</ShrtName>
+            <DescEng></DescEng>
+            <DescThai></DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+        <Course code="XXXXXXXX2">
+            <NameEng>Free Elective Course II</NameEng>
+            <NameThai>วิชาเลือกเสรี 2</NameThai>
+            <ShrtName>FREE ELECTIVE COURSE II</ShrtName>
+            <DescEng></DescEng>
+            <DescThai></DescThai>
+            <Flag>2</Flag>
+            <Type>L</Type>
+            <SU>0</SU>
+            <Level>6</Level>
+            <Crd>3</Crd>
+            <Crd_Lec>3</Crd_Lec>
+            <Crd_Lab>0</Crd_Lab>
+            <No_Hlec>3</No_Hlec>
+            <No_Hlab>0</No_Hlab>
+        </Course>
+    </Courses>
+    <Prerequisites>
+        <Prerequisite code="020003208">
+            <MinCredit>0</MinCredit>
+            <Pre1>020003204</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020003209">
+            <MinCredit>0</MinCredit>
+            <Pre1>020003208</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020003211">
+            <MinCredit>0</MinCredit>
+            <Pre1>020003201</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020003212">
+            <MinCredit>0</MinCredit>
+            <Pre1>020003204</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020003214">
+            <MinCredit>0</MinCredit>
+            <Pre1>020003209</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020003215">
+            <MinCredit>0</MinCredit>
+            <Pre1>020003209</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113104">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113901</Pre1>
+            <Co1>B</Co1>
+            <Op1>O</Op1>
+            <Comment>โดยความเห็นชอบของภาควิชา</Comment>
+        </Prerequisite>
+        <Prerequisite code="020113904">
+            <MinCredit>0</MinCredit>
+            <Pre1>040313010</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113910">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113904</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113912">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113910</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113930">
+            <MinCredit>0</MinCredit>
+            <Pre1>040313010</Pre1>
+            <Co1>B</Co1>
+            <Op1>O</Op1>
+            <Comment>โดยความเห็นชอบของภาควิชา</Comment>
+        </Prerequisite>
+        <Prerequisite code="020113940">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113901</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113950">
+            <MinCredit>0</MinCredit>
+            <Pre1>040313010</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113960">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113981</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113980">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113901</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113983">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113981</Pre1>
+            <Co1>B</Co1>
+            <Op1>O</Op1>
+            <Pre2>020113982</Pre2>
+            <Co2>B</Co2>
+            <Op2></Op2>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020113984">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113983</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123230">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113901</Pre1>
+            <Co1>B</Co1>
+            <Op1>A</Op1>
+            <Pre2>020113</Pre2>
+            <Co2>B</Co2>
+            <Op2>O</Op2>
+            <Comment>โดยความเห็นขอบของภาควิชา</Comment>
+        </Prerequisite>
+        <Prerequisite code="020123241">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113912</Pre1>
+            <Co1>D</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123242">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113104</Pre1>
+            <Co1>B</Co1>
+            <Op1>A</Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123243">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113910</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123244">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123242</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123246">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123243</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123247">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123241</Pre1>
+            <Co1>D</Co1>
+            <Op1>A</Op1>
+            <Pre2>020123</Pre2>
+            <Co2>D</Co2>
+            <Op2></Op2>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123248">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113950</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123249">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113960</Pre1>
+            <Co1>B</Co1>
+            <Op1>A</Op1>
+            <Comment>โดยความเห็นชอบของภาควิชา</Comment>
+        </Prerequisite>
+        <Prerequisite code="020123250">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123241</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123252">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113901</Pre1>
+            <Co1>B</Co1>
+            <Op1>A</Op1>
+            <Pre2>020113</Pre2>
+            <Co2>B</Co2>
+            <Op2></Op2>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123253">
+            <MinCredit>0</MinCredit>
+            <Pre1> 02011310</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123255">
+            <MinCredit>0</MinCredit>
+            <Comment>เป็นนักศึกษาชั้นปีที่ 3</Comment>
+        </Prerequisite>
+        <Prerequisite code="020123276">
+            <MinCredit>0</MinCredit>
+            <Pre1>020113912</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123277">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123270</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123283">
+            <MinCredit>0</MinCredit>
+            <Comment>โดยความเห็นชอบภาควิชา</Comment>
+        </Prerequisite>
+        <Prerequisite code="020123287">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123286</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="020123288">
+            <MinCredit>0</MinCredit>
+            <Pre1>020123287</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="040203112">
+            <MinCredit>0</MinCredit>
+            <Pre1>040203111</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103002">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103001</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103011">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103002</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103012">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103002</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103014">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103002</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103016">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103002</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103018">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103002</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+        <Prerequisite code="080103062">
+            <MinCredit>0</MinCredit>
+            <Pre1>080103061</Pre1>
+            <Co1>B</Co1>
+            <Op1></Op1>
+            <Comment></Comment>
+        </Prerequisite>
+    </Prerequisites>
+    <Blocks>
+        <Block code="13">
+            <Course>010813901</Course>
+        </Block>
+        <Block code="14">
+            <Course>080103001</Course>
+            <Course>080103002</Course>
+        </Block>
+        <Block code="15">
+            <Course>020113104</Course>
+            <Course>020123201</Course>
+            <Course>020123230</Course>
+            <Course>020123241</Course>
+            <Course>020123249</Course>
+            <Course>020123251</Course>
+            <Course>020123255</Course>
+            <Course>020123271</Course>
+            <Course>020123272</Course>
+            <Course>020123273</Course>
+            <Course>020123274</Course>
+            <Course>020123276</Course>
+        </Block>
+        <Block code="16">
+            <Course>080303104</Course>
+            <Course>080303201</Course>
+            <Course>080303601</Course>
+            <Course>080303606</Course>
+        </Block>
+        <Block code="17">
+            <Course>080203901</Course>
+            <Course>080203904</Course>
+            <Course>080203906</Course>
+        </Block>
+        <Block code="19">
+            <Course>080303501</Course>
+            <Course>080303502</Course>
+            <Course>080303503</Course>
+            <Course>080303504</Course>
+        </Block>
+        <Block code="20">
+            <Course>020113901</Course>
+            <Course>020113904</Course>
+            <Course>020113910</Course>
+            <Course>020113912</Course>
+            <Course>020113930</Course>
+            <Course>020113940</Course>
+            <Course>020113950</Course>
+            <Course>020113960</Course>
+            <Course>020113970</Course>
+            <Course>020113980</Course>
+            <Course>020113981</Course>
+            <Course>020113982</Course>
+            <Course>020113983</Course>
+            <Course>020113984</Course>
+            <Course>020123287</Course>
+            <Course>020123288</Course>
+            <Course>040203111</Course>
+            <Course>040203112</Course>
+            <Course>040313010</Course>
+        </Block>
+        <Block code="21">
+            <Course>020003202</Course>
+            <Course>020003203</Course>
+            <Course>020003211</Course>
+            <Course>020003212</Course>
+            <Course>020003213</Course>
+            <Course>020003214</Course>
+            <Course>020003215</Course>
+            <Course>020003216</Course>
+            <Course>020123242</Course>
+            <Course>020123243</Course>
+            <Course>020123244</Course>
+            <Course>020123246</Course>
+            <Course>020123247</Course>
+            <Course>020123248</Course>
+            <Course>020123250</Course>
+            <Course>020123252</Course>
+            <Course>020123253</Course>
+            <Course>020123254</Course>
+            <Course>020123270</Course>
+            <Course>020123275</Course>
+            <Course>020123277</Course>
+            <Course>020123278</Course>
+            <Course>020123279</Course>
+            <Course>020123280</Course>
+            <Course>020123281</Course>
+            <Course>020123282</Course>
+        </Block>
+        <Block code="22">
+            <Course>020003201</Course>
+            <Course>020003204</Course>
+            <Course>020003205</Course>
+            <Course>020003206</Course>
+            <Course>020003207</Course>
+            <Course>020003208</Course>
+            <Course>020003209</Course>
+            <Course>020003210</Course>
+        </Block>
+        <Block code="24">
+            <Course>XXXXXXXX1</Course>
+            <Course>XXXXXXXX2</Course>
+        </Block>
+        <Block code="26">
+            <Course>080103011</Course>
+            <Course>080103012</Course>
+            <Course>080103014</Course>
+            <Course>080103016</Course>
+            <Course>080103018</Course>
+        </Block>
+        <Block code="30">
+            <Course>XXXXXXXX1</Course>
+            <Course>XXXXXXXX2</Course>
+        </Block>
+        <Block code="32">
+            <Course>010813901</Course>
+        </Block>
+        <Block code="33">
+            <Course>080203901</Course>
+            <Course>080203904</Course>
+            <Course>080203906</Course>
+        </Block>
+        <Block code="35">
+            <Course>080303104</Course>
+            <Course>080303201</Course>
+            <Course>080303601</Course>
+            <Course>080303606</Course>
+        </Block>
+        <Block code="37">
+            <Course>080103001</Course>
+            <Course>080103002</Course>
+        </Block>
+        <Block code="38">
+            <Course>080103011</Course>
+            <Course>080103012</Course>
+            <Course>080103014</Course>
+            <Course>080103016</Course>
+            <Course>080103018</Course>
+        </Block>
+        <Block code="40">
+            <Course>080303501</Course>
+            <Course>080303502</Course>
+            <Course>080303503</Course>
+            <Course>080303504</Course>
+        </Block>
+        <Block code="42">
+            <Course>020003101</Course>
+            <Course>020003103</Course>
+            <Course>030113260</Course>
+            <Course>040113005</Course>
+        </Block>
+        <Block code="44">
+            <Course>020003201</Course>
+            <Course>020003204</Course>
+            <Course>020003205</Course>
+            <Course>020003206</Course>
+            <Course>020003207</Course>
+            <Course>020003208</Course>
+            <Course>020003209</Course>
+            <Course>020003210</Course>
+        </Block>
+        <Block code="46">
+            <Course>020113901</Course>
+            <Course>020113904</Course>
+            <Course>020113910</Course>
+            <Course>020113912</Course>
+            <Course>020113930</Course>
+            <Course>020113940</Course>
+            <Course>020113950</Course>
+            <Course>020113960</Course>
+            <Course>020113970</Course>
+            <Course>020113980</Course>
+            <Course>020113981</Course>
+            <Course>020113982</Course>
+            <Course>020113983</Course>
+            <Course>020123287</Course>
+            <Course>020123288</Course>
+            <Course>040203111</Course>
+            <Course>040203112</Course>
+            <Course>040313010</Course>
+        </Block>
+        <Block code="48">
+            <Course>020113104</Course>
+            <Course>020123230</Course>
+            <Course>020123241</Course>
+            <Course>020123249</Course>
+            <Course>020123251</Course>
+            <Course>020123271</Course>
+            <Course>020123272</Course>
+            <Course>020123273</Course>
+            <Course>020123274</Course>
+        </Block>
+        <Block code="49">
+            <Course>020123283</Course>
+        </Block>
+        <Block code="51">
+            <Course>020003202</Course>
+            <Course>020003203</Course>
+            <Course>020003211</Course>
+            <Course>020003212</Course>
+            <Course>020003213</Course>
+            <Course>020003214</Course>
+            <Course>020003215</Course>
+            <Course>020003216</Course>
+            <Course>020123242</Course>
+            <Course>020123243</Course>
+            <Course>020123244</Course>
+            <Course>020123246</Course>
+            <Course>020123247</Course>
+            <Course>020123248</Course>
+            <Course>020123250</Course>
+            <Course>020123252</Course>
+            <Course>020123253</Course>
+            <Course>020123254</Course>
+            <Course>020123270</Course>
+            <Course>020123275</Course>
+            <Course>020123277</Course>
+            <Course>020123278</Course>
+            <Course>020123279</Course>
+            <Course>020123280</Course>
+            <Course>020123281</Course>
+            <Course>020123282</Course>
+        </Block>
+        <Block code="52">
+            <Course>020123286</Course>
+        </Block>
+        <Block code="53">
+            <Course>020123286</Course>
+        </Block>
+        <Block code="57">
+            <Course>080103061</Course>
+        </Block>
+        <Block code="58">
+            <Course>080103011</Course>
+            <Course>080103012</Course>
+            <Course>080103014</Course>
+            <Course>080103062</Course>
+        </Block>
+        <Block code="60">
+            <Course>020003103</Course>
+        </Block>
+        <Block code="63">
+            <Course>020003201</Course>
+            <Course>020003204</Course>
+            <Course>020003205</Course>
+            <Course>020003206</Course>
+            <Course>020003207</Course>
+            <Course>020003208</Course>
+            <Course>020003209</Course>
+            <Course>020003210</Course>
+        </Block>
+        <Block code="65">
+            <Course>020113910</Course>
+            <Course>020113912</Course>
+            <Course>020113930</Course>
+            <Course>020113950</Course>
+            <Course>020113960</Course>
+            <Course>020113983</Course>
+            <Course>020113984</Course>
+            <Course>020123287</Course>
+            <Course>020123288</Course>
+        </Block>
+        <Block code="67">
+            <Course>020113104</Course>
+            <Course>020123230</Course>
+            <Course>020123241</Course>
+            <Course>020123249</Course>
+            <Course>020123251</Course>
+            <Course>020123271</Course>
+            <Course>020123272</Course>
+            <Course>020123273</Course>
+            <Course>020123274</Course>
+            <Course>020123276</Course>
+        </Block>
+        <Block code="69">
+            <Course>020003202</Course>
+            <Course>020003203</Course>
+            <Course>020003211</Course>
+            <Course>020003212</Course>
+            <Course>020003213</Course>
+            <Course>020003214</Course>
+            <Course>020003215</Course>
+            <Course>020003216</Course>
+            <Course>020123242</Course>
+            <Course>020123243</Course>
+            <Course>020123244</Course>
+            <Course>020123246</Course>
+            <Course>020123247</Course>
+            <Course>020123248</Course>
+            <Course>020123250</Course>
+            <Course>020123252</Course>
+            <Course>020123253</Course>
+            <Course>020123254</Course>
+            <Course>020123270</Course>
+            <Course>020123275</Course>
+            <Course>020123277</Course>
+            <Course>020123278</Course>
+            <Course>020123279</Course>
+            <Course>020123280</Course>
+            <Course>020123281</Course>
+            <Course>020123282</Course>
+        </Block>
+        <Block code="71">
+            <Course>XXXXXXXX1</Course>
+            <Course>XXXXXXXX2</Course>
+        </Block>
+        <Block code="72">
+            <Course>020123286</Course>
+        </Block>
+        <Block code="9">
+            <Course>020003101</Course>
+            <Course>020003103</Course>
+            <Course>030113260</Course>
+            <Course>040113005</Course>
+        </Block>
+    </Blocks>
+    <Plans>
+        <Plan scheme="1" round="R" option="0">
+            <YearSem year="1" sem="1" crd="19">
+                <Course code="020113982">
+                    <Block>20</Block>
+                    <Display>020113982</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020123201">
+                    <Block>15</Block>
+                    <Display>020123201</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="040203111">
+                    <Block>20</Block>
+                    <Display>040203111</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="040313010">
+                    <Block>20</Block>
+                    <Display>040313010</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="080103001">
+                    <Block>14</Block>
+                    <Display>080103001</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R020003101">
+                    <Block>9</Block>
+                    <Display>020003101</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>1</No_Hlab>
+                </Course>
+                <Course code="R030113260">
+                    <Block>9</Block>
+                    <Display>030113260</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R040113005">
+                    <Block>9</Block>
+                    <Display>040113005</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R080303501">
+                    <Block>19</Block>
+                    <Display>0803035XX</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="1" sem="2" crd="21">
+                <Course code="020113901">
+                    <Block>20</Block>
+                    <Display>020113901</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113904">
+                    <Block>20</Block>
+                    <Display>020113904</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113981">
+                    <Block>20</Block>
+                    <Display>020113981</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113983">
+                    <Block>20</Block>
+                    <Display>020113983</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="040203112">
+                    <Block>20</Block>
+                    <Display>040203112</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="080103002">
+                    <Block>14</Block>
+                    <Display>080103002</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R020003103">
+                    <Block>9</Block>
+                    <Display>020003103</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R080303502">
+                    <Block>19</Block>
+                    <Display>0803035XX</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="1" crd="21">
+                <Course code="020113910">
+                    <Block>20</Block>
+                    <Display>020113910</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113930">
+                    <Block>20</Block>
+                    <Display>020113930</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113960">
+                    <Block>20</Block>
+                    <Display>020113960</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020113970">
+                    <Block>20</Block>
+                    <Display>020113970</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113980">
+                    <Block>20</Block>
+                    <Display>020113980</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020113984">
+                    <Block>20</Block>
+                    <Display>020113984</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020123230">
+                    <Block>15</Block>
+                    <Display>020123230</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020123251">
+                    <Block>15</Block>
+                    <Display>020123251</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="R080303104">
+                    <Block>16</Block>
+                    <Display>080303XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="2" crd="19">
+                <Course code="010813901">
+                    <Block>13</Block>
+                    <Display>010813901</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003201">
+                    <Block>22</Block>
+                    <Display>020003201</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113104">
+                    <Block>15</Block>
+                    <Display>020113104</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113912">
+                    <Block>20</Block>
+                    <Display>020113912</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113940">
+                    <Block>20</Block>
+                    <Display>020113940</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123249">
+                    <Block>15</Block>
+                    <Display>020123249</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R080203901">
+                    <Block>17</Block>
+                    <Display>080203XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="3" sem="1" crd="20">
+                <Course code="020003204">
+                    <Block>22</Block>
+                    <Display>020003204</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003205">
+                    <Block>22</Block>
+                    <Display>020003205</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003206">
+                    <Block>22</Block>
+                    <Display>020003206</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003210">
+                    <Block>22</Block>
+                    <Display>020003210</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123241">
+                    <Block>15</Block>
+                    <Display>020123241</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123271">
+                    <Block>15</Block>
+                    <Display>020123271</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123274">
+                    <Block>15</Block>
+                    <Display>020123274</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="3" sem="2" crd="18">
+                <Course code="020003208">
+                    <Block>22</Block>
+                    <Display>020003208</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>4</No_Hlab>
+                </Course>
+                <Course code="020113950">
+                    <Block>20</Block>
+                    <Display>020113950</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123272">
+                    <Block>15</Block>
+                    <Display>020123272</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123273">
+                    <Block>15</Block>
+                    <Display>020123273</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123276">
+                    <Block>15</Block>
+                    <Display>020123276</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123286">
+                    <Block>52</Block>
+                    <Display>020123286</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="R080103011">
+                    <Block>26</Block>
+                    <Display>080103XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="3" sem="3" crd="1">
+                <Course code="020123255">
+                    <Block>15</Block>
+                    <Display>020123255</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>240</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="4" sem="1" crd="14">
+                <Course code="020123287">
+                    <Block>20</Block>
+                    <Display>020123287</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="R020003202">
+                    <Block>21</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R020123246">
+                    <Block>21</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R080103016">
+                    <Block>26</Block>
+                    <Display>080103XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="RXXXXXXXX1">
+                    <Block>24</Block>
+                    <Display>XXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="4" sem="2" crd="17">
+                <Course code="020003207">
+                    <Block>22</Block>
+                    <Display>020003207</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003209">
+                    <Block>22</Block>
+                    <Display>020003209</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020123288">
+                    <Block>20</Block>
+                    <Display>020123288</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="R020123248">
+                    <Block>21</Block>
+                    <Display>020XXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R020123280">
+                    <Block>21</Block>
+                    <Display>020XXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="RXXXXXXXX2">
+                    <Block>24</Block>
+                    <Display>XXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+        </Plan>
+        <Plan scheme="23" round="R" option="0">
+            <YearSem year="1" sem="1" crd="18">
+                <Course code="020003101">
+                    <Block>42</Block>
+                    <Display>020003101</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>1</No_Hlab>
+                </Course>
+                <Course code="020113982">
+                    <Block>46</Block>
+                    <Display>020113982</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="030113260">
+                    <Block>42</Block>
+                    <Display>030113260</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="040113005">
+                    <Block>42</Block>
+                    <Display>040113005</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="040203111">
+                    <Block>46</Block>
+                    <Display>040203111</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="040313010">
+                    <Block>46</Block>
+                    <Display>040313010</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="080103001">
+                    <Block>37</Block>
+                    <Display>080103001</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R080303501">
+                    <Block>40</Block>
+                    <Display>0803035XX</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="1" sem="2" crd="21">
+                <Course code="020113901">
+                    <Block>46</Block>
+                    <Display>020113901</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113904">
+                    <Block>46</Block>
+                    <Display>020113904</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113981">
+                    <Block>46</Block>
+                    <Display>020113981</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113983">
+                    <Block>46</Block>
+                    <Display>020113983</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="040203112">
+                    <Block>46</Block>
+                    <Display>040203112</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="080103002">
+                    <Block>37</Block>
+                    <Display>080103002</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R020003103">
+                    <Block>42</Block>
+                    <Display>020003103</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R080303502">
+                    <Block>40</Block>
+                    <Display>0803035XX</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="1" crd="19">
+                <Course code="020113910">
+                    <Block>46</Block>
+                    <Display>020113910</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113930">
+                    <Block>46</Block>
+                    <Display>020113930</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113960">
+                    <Block>46</Block>
+                    <Display>020113960</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020113970">
+                    <Block>46</Block>
+                    <Display>020113970</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113980">
+                    <Block>46</Block>
+                    <Display>020113980</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020123230">
+                    <Block>48</Block>
+                    <Display>020123230</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020123251">
+                    <Block>48</Block>
+                    <Display>020123251</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="R080303104">
+                    <Block>35</Block>
+                    <Display>080303XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="2" crd="19">
+                <Course code="010813901">
+                    <Block>32</Block>
+                    <Display>010813901</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003201">
+                    <Block>44</Block>
+                    <Display>020003201</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113104">
+                    <Block>48</Block>
+                    <Display>020113104</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113912">
+                    <Block>46</Block>
+                    <Display>020113912</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113940">
+                    <Block>46</Block>
+                    <Display>020113940</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123249">
+                    <Block>48</Block>
+                    <Display>020123249</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R080203901">
+                    <Block>33</Block>
+                    <Display>080203XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="3" sem="1" crd="20">
+                <Course code="020003204">
+                    <Block>44</Block>
+                    <Display>020003204</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003205">
+                    <Block>44</Block>
+                    <Display>020003205</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003206">
+                    <Block>44</Block>
+                    <Display>020003206</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003210">
+                    <Block>44</Block>
+                    <Display>020003210</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123241">
+                    <Block>48</Block>
+                    <Display>020123241</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123271">
+                    <Block>48</Block>
+                    <Display>020123271</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123274">
+                    <Block>48</Block>
+                    <Display>020123274</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="3" sem="2" crd="22">
+                <Course code="020003208">
+                    <Block>44</Block>
+                    <Display>020003208</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>4</No_Hlab>
+                </Course>
+                <Course code="020113950">
+                    <Block>46</Block>
+                    <Display>020113950</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123272">
+                    <Block>48</Block>
+                    <Display>020123272</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123273">
+                    <Block>48</Block>
+                    <Display>020123273</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123286">
+                    <Block>53</Block>
+                    <Display>020123286</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="R020003202">
+                    <Block>51</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R080103011">
+                    <Block>38</Block>
+                    <Display>080103XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="RXXXXXXXX1">
+                    <Block>30</Block>
+                    <Display>XXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="3" sem="3" crd="5">
+                <Course code="020123287">
+                    <Block>46</Block>
+                    <Display>020123287</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="R080103016">
+                    <Block>38</Block>
+                    <Display>080103XXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="4" sem="1" crd="6">
+                <Course code="020123283">
+                    <Block>49</Block>
+                    <Display>020123283</Display>
+                    <Crd>6</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>560</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="4" sem="2" crd="20">
+                <Course code="020003207">
+                    <Block>44</Block>
+                    <Display>020003207</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003209">
+                    <Block>44</Block>
+                    <Display>020003209</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020123288">
+                    <Block>46</Block>
+                    <Display>020123288</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="R020003212">
+                    <Block>51</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R020123248">
+                    <Block>51</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R020123253">
+                    <Block>51</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="RXXXXXXXX2">
+                    <Block>30</Block>
+                    <Display>XXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+        </Plan>
+        <Plan scheme="54" round="R" option="0">
+            <YearSem year="1" sem="1" crd="21">
+                <Course code="020003103">
+                    <Block>60</Block>
+                    <Display>020003103</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020003201">
+                    <Block>63</Block>
+                    <Display>020003201</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003204">
+                    <Block>63</Block>
+                    <Display>020003204</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003206">
+                    <Block>63</Block>
+                    <Display>020003206</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003210">
+                    <Block>63</Block>
+                    <Display>020003210</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113104">
+                    <Block>67</Block>
+                    <Display>020113104</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020113910">
+                    <Block>65</Block>
+                    <Display>020113910</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="1" sem="2" crd="21">
+                <Course code="020003205">
+                    <Block>63</Block>
+                    <Display>020003205</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003208">
+                    <Block>63</Block>
+                    <Display>020003208</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>4</No_Hlab>
+                </Course>
+                <Course code="020113912">
+                    <Block>65</Block>
+                    <Display>020113912</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113930">
+                    <Block>65</Block>
+                    <Display>020113930</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020113960">
+                    <Block>65</Block>
+                    <Display>020113960</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020113983">
+                    <Block>65</Block>
+                    <Display>020113983</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020123230">
+                    <Block>67</Block>
+                    <Display>020123230</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020123274">
+                    <Block>67</Block>
+                    <Display>020123274</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123286">
+                    <Block>72</Block>
+                    <Display>020123286</Display>
+                    <Crd>1</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="1" sem="3" crd="8">
+                <Course code="020113984">
+                    <Block>65</Block>
+                    <Display>020113984</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020123241">
+                    <Block>67</Block>
+                    <Display>020123241</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123249">
+                    <Block>67</Block>
+                    <Display>020123249</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="1" crd="22">
+                <Course code="020003207">
+                    <Block>63</Block>
+                    <Display>020003207</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020003209">
+                    <Block>63</Block>
+                    <Display>020003209</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="020113950">
+                    <Block>65</Block>
+                    <Display>020113950</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="020123251">
+                    <Block>67</Block>
+                    <Display>020123251</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>1</No_Hlec>
+                    <No_Hlab>3</No_Hlab>
+                </Course>
+                <Course code="020123273">
+                    <Block>67</Block>
+                    <Display>020123273</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123287">
+                    <Block>65</Block>
+                    <Display>020123287</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="080103061">
+                    <Block>57</Block>
+                    <Display>080103061</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R020003202">
+                    <Block>69</Block>
+                    <Display>0201232</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="2" crd="22">
+                <Course code="020123271">
+                    <Block>67</Block>
+                    <Display>020123271</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123272">
+                    <Block>67</Block>
+                    <Display>020123272</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123276">
+                    <Block>67</Block>
+                    <Display>020123276</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="020123288">
+                    <Block>65</Block>
+                    <Display>020123288</Display>
+                    <Crd>2</Crd>
+                    <No_Hlec>0</No_Hlec>
+                    <No_Hlab>6</No_Hlab>
+                </Course>
+                <Course code="R020123250">
+                    <Block>69</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>2</No_Hlec>
+                    <No_Hlab>2</No_Hlab>
+                </Course>
+                <Course code="R020123252">
+                    <Block>69</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="R080103062">
+                    <Block>58</Block>
+                    <Display>XXXXXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="RXXXXXXXX1">
+                    <Block>71</Block>
+                    <Display>XXXXXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+            <YearSem year="2" sem="3" crd="6">
+                <Course code="R020123280">
+                    <Block>69</Block>
+                    <Display>0201232XX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+                <Course code="RXXXXXXXX2">
+                    <Block>71</Block>
+                    <Display>XXXXXXXXX</Display>
+                    <Crd>3</Crd>
+                    <No_Hlec>3</No_Hlec>
+                    <No_Hlab>0</No_Hlab>
+                </Course>
+            </YearSem>
+        </Plan>
+    </Plans>
+    <Professions />
+    <Layout>
+        <Item type="Node" code="1">
+            <Item type="Node" code="2">
+                <Item type="Node" code="5">
+                    <Item type="Node" code="13" />
+                    <Item type="Node" code="17" /></Item>
+                <Item type="Node" code="6">
+                    <Item type="Node" code="16" /></Item>
+                <Item type="Node" code="7">
+                    <Item type="Node" code="14" />
+                    <Item type="Node" code="26" /></Item>
+                <Item type="Node" code="8">
+                    <Item type="Node" code="9" /></Item>
+                <Item type="Node" code="10">
+                    <Item type="Node" code="19" /></Item>
+            </Item>
+            <Item type="Node" code="3">
+                <Item type="Node" code="11">
+                    <Item type="Node" code="22" /></Item>
+                <Item type="Node" code="12">
+                    <Item type="Node" code="20" />
+                    <Item type="Node" code="52" /></Item>
+                <Item type="Node" code="18">
+                    <Item type="Node" code="15" /></Item>
+                <Item type="Node" code="25">
+                    <Item type="Node" code="21" /></Item>
+            </Item>
+            <Item type="Node" code="4">
+                <Item type="Node" code="24" /></Item>
+        </Item>
+        <Item type="Node" code="23">
+            <Item type="Node" code="27">
+                <Item type="Node" code="31">
+                    <Item type="Node" code="32" />
+                    <Item type="Node" code="33" /></Item>
+                <Item type="Node" code="34">
+                    <Item type="Node" code="35" /></Item>
+                <Item type="Node" code="36">
+                    <Item type="Node" code="37" />
+                    <Item type="Node" code="38" /></Item>
+                <Item type="Node" code="39">
+                    <Item type="Node" code="42" /></Item>
+                <Item type="Node" code="41">
+                    <Item type="Node" code="40" /></Item>
+            </Item>
+            <Item type="Node" code="28">
+                <Item type="Node" code="43">
+                    <Item type="Node" code="44" /></Item>
+                <Item type="Node" code="45">
+                    <Item type="Node" code="46" />
+                    <Item type="Node" code="53" /></Item>
+                <Item type="Node" code="47">
+                    <Item type="Node" code="48" />
+                    <Item type="Node" code="49" /></Item>
+                <Item type="Node" code="50">
+                    <Item type="Node" code="51" /></Item>
+            </Item>
+            <Item type="Node" code="29">
+                <Item type="Node" code="30" /></Item>
+        </Item>
+        <Item type="Node" code="54">
+            <Item type="Node" code="55">
+                <Item type="Node" code="56">
+                    <Item type="Node" code="57" />
+                    <Item type="Node" code="58" /></Item>
+                <Item type="Node" code="59">
+                    <Item type="Node" code="60" /></Item>
+            </Item>
+            <Item type="Node" code="61">
+                <Item type="Node" code="62">
+                    <Item type="Node" code="63" /></Item>
+                <Item type="Node" code="64">
+                    <Item type="Node" code="65" /></Item>
+                <Item type="Node" code="66">
+                    <Item type="Node" code="67" /></Item>
+                <Item type="Node" code="68">
+                    <Item type="Node" code="69" /></Item>
+                <Item type="Node" code="72" /></Item>
+            <Item type="Node" code="70">
+                <Item type="Node" code="71" /></Item>
+        </Item>
+    </Layout>
+    <Chart />
+</Curriculum>

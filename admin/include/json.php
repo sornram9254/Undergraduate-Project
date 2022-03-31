@@ -1,0 +1,30 @@
+<?php
+    $std_id = $_GET['std_id'];
+    $json_string = "http://202.28.17.14/api4reg/api/index.php/GetStudentInfo/" . $std_id;
+    #$json_string = "http://202.28.17.14/api4reg/api/index.php/GetStudentInfo/5402041420259";
+    $jsondata = @file_get_contents($json_string);
+  //$obj = json_decode($jsondata);
+    $obj = json_decode($jsondata, true);
+    #print_r($obj['StudentInfo']);
+    echo "รหัสประจำตัวนักศึกษา" .   $obj['StudentInfo']['STU_CODE'] . "\r\n";
+    echo "ชื่อ (ภาษาไทย)" .      $obj['StudentInfo']['STU_FIRST_NAME_THAI'] . "\r\n";
+    echo "นามสกุล (ภาษาไทย)" .    $obj['StudentInfo']['STU_LAST_NAME_THAI'] . "\r\n";
+    echo "ชื่อ (ภาษาอังกฤษ)" .     $obj['StudentInfo']['STU_FIRST_NAME_ENG'] . "\r\n";
+    echo "นามสกุล (ภาษาอังกฤษ)" .  $obj['StudentInfo']['STU_LAST_NAME_ENG'] . "\r\n";
+    echo "เพศ" .            $obj['StudentInfo']['SEX'] . "\r\n";
+    echo "หมายเลขประจำตัวประชาชน" . $obj['StudentInfo']['ID_CARD'] . "\r\n";
+    echo "รหัสหลักสูตร" .        $obj['StudentInfo']['CURR_CODE'] . "\r\n";
+    echo "หลักสูตร" .          $obj['StudentInfo']['CURR_NAME_THAI'] . "\r\n";
+    echo "คณะ" .            $obj['StudentInfo']['FAC_CODE'] . " - ";
+    echo                  $obj['StudentInfo']['FAC_NAME_THAI'] . "\r\n";
+    echo "ภาควิชา" .          $obj['StudentInfo']['DEPT_CODE'] . " - ";
+    echo                  $obj['StudentInfo']['DEPT_SHRT_NAME'] . " - ";
+    echo                  $obj['StudentInfo']['DEPT_NAME_THAI'] . "\r\n";
+    echo "สาขา" .           $obj['StudentInfo']['DIV_CODE'] . " - ";
+    echo                 $obj['StudentInfo']['DIV_SHRT_NAME'] . " - ";
+    echo                 $obj['StudentInfo']['DIV_NAME_THAI'] . "\r\n";
+    echo "รอบ" .           $obj['StudentInfo']['ROUND'] . "\r\n";
+    echo "สถานะการศึกษา" .     $obj['StudentInfo']['STU_ST_DESC'] . "\r\n";
+    echo "ระดับการศึกษา" .      $obj['StudentInfo']['LEVEL_CODE'] . " - ";
+    echo                 $obj['StudentInfo']['LEVEL_DESC'] . "\r\n";
+?>
